@@ -1,2189 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://i.ibb.co/0VFv6Rfz/Captura-de-pantalla-2026-02-01-110104.png" group-title="ANDEN TV PACK FUTBOL",TNT Sports
-https://anden26.ddns.net/live/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2" tvg-logo="https://i.ibb.co/0VFv6Rfz/Captura-de-pantalla-2026-02-01-110104.png" group-title="ANDEN TV PACK FUTBOL",TNT Sports Opcion 2
-https://anden92.ddns.net/live/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium" tvg-logo="https://i.ibb.co/b56nbt9h/Captura-de-pantalla-2026-02-01-105301.png" group-title="ANDEN TV PACK FUTBOL",ESPN Premium
-https://serviciosatv78.ddns.net/live/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium  OP2" tvg-logo="https://i.ibb.co/b56nbt9h/Captura-de-pantalla-2026-02-01-105301.png" group-title="ANDEN TV PACK FUTBOL",ESPN Premium Opcion 2
-http://andtv10.ddns.net/live/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Exclusiva RIVER/BOCA PARTIDOS IMPORTANTES" tvg-logo="https://i.ibb.co/b56nbt9h/Captura-de-pantalla-2026-02-01-105301.png" group-title="ANDEN TV PACK FUTBOL",Exclusiva RIVER/BOCA / PARTIDOS IMPORTANTES
-https://anden26.ddns.net/live/stream.m3u8
-
-#EXTINF:11,A&E
-http://177.10.184.193:8000/play/a04x/index.m3u8
-#EXTINF:11,A&E HD
-http://177.10.184.193:8000/play/a0cz/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALFA CANAL 29" group-title="CANALES DE CABLE",ALFA CANAL 29
-http://177.10.184.193:8000/play/a0dm/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" group-title="CANALES DE CABLE",AMC HD
-http://177.10.184.193:8000/play/a0d0/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" group-title="CANALES DE CABLE",AXN HD
-http://177.10.184.193:8000/play/a060/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AZ click HD" group-title="CANALES DE CABLE",AZ click HD
-http://177.10.184.193:8000/play/a0d6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" group-title="CANALES DE CABLE",Animal Planet
-http://177.10.184.193:8000/play/a050/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" group-title="CANALES DE CABLE",Animal Planet HD
-http://177.10.184.193:8000/play/a0cw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3-91" group-title="CANALES DE CABLE",Antena 3-91
-http://177.10.184.193:8000/play/a06a/index.m3u8
-#EXTINF:11,Antena 7- RD
-http://177.10.184.193:8000/play/a037/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Atres Series" group-title="CANALES DE CABLE",Atres Series
-http://177.10.184.193:8000/play/a02o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Azcorazon" group-title="CANALES DE CABLE",Azcorazon
-http://177.10.184.193:8000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Azmundo/ Azteca Novelas" group-title="CANALES DE CABLE",Azmundo/ Azteca Novelas
-http://177.10.184.193:8000/play/a04t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Baby First" group-title="CANALES DE CABLE",Baby First
-http://177.10.184.193:8000/play/a047/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" group-title="CANALES DE CABLE",Baby TV
-http://177.10.184.193:8000/play/a02j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 EL LIDER HD" group-title="CANALES DE CABLE",CANAL 5 EL LIDER HD
-http://177.10.184.193:8000/play/a0e7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 MEXICO" group-title="CANALES DE CABLE",CANAL 5 MEXICO
-http://177.10.184.193:8000/play/a0ej/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 6 HD" group-title="CANALES DE CABLE",CANAL 6 HD
-http://177.10.184.193:8000/play/a0ff/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 8 HN" group-title="CANALES DE CABLE",CANAL 8 HN
-http://177.10.184.193:8000/play/a0fh/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LAS ESTRELLAS MEXICO" group-title="CANALES DE CABLE",CANAL DE LAS ESTRELLAS MEXICO
-http://177.10.184.193:8000/play/a0ei/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DEL CONGRESO" group-title="CANALES DE CABLE",CANAL DEL CONGRESO
-http://177.10.184.193:8000/play/a0fi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" group-title="CANALES DE CABLE",CARTOON NETWORK HD
-http://177.10.184.193:8000/play/a0eq/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE MEXICANO HD" group-title="CANALES DE CABLE",CINE MEXICANO HD
-http://177.10.184.193:8000/play/a0e9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" group-title="CANALES DE CABLE",CINECANAL HD
-http://177.10.184.193:8000/play/a059/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNNE" group-title="CANALES DE CABLE",CNNE
-http://177.10.184.193:8000/play/a03v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COPAN TV CANAL30" group-title="CANALES DE CABLE",COPAN TV CANAL30
-http://177.10.184.193:8000/play/a0ez/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 11 - HON" group-title="CANALES DE CABLE",Canal 11 - HON
-http://177.10.184.193:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 11 HD" group-title="CANALES DE CABLE",Canal 11 HD
-http://177.10.184.193:8000/play/a0fe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 3 Telesistemas HND" group-title="CANALES DE CABLE",Canal 3 Telesistemas HND
-http://177.10.184.193:8000/play/a0ep/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5 - HON" group-title="CANALES DE CABLE",Canal 5 - HON
-http://177.10.184.193:8000/play/a04p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 8 TNH HN" group-title="CANALES DE CABLE",Canal 8 TNH HN
-http://177.10.184.193:8000/play/a0ah/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Azteca - GUA" group-title="CANALES DE CABLE",Canal Azteca - GUA
-http://177.10.184.193:8000/play/a0dw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Claro" group-title="CANALES DE CABLE",Canal Claro
-http://177.10.184.193:8000/play/a0do/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal VTV HND" group-title="CANALES DE CABLE",Canal VTV HND
-http://177.10.184.193:8000/play/a05e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caracol" group-title="CANALES DE CABLE",Caracol
-http://177.10.184.193:8000/play/a0fo/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" group-title="CANALES DE CABLE",Cartoonito
-http://177.10.184.193:8000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" group-title="CANALES DE CABLE",Cine Latino
-http://177.10.184.193:8000/play/a05t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CineMax" group-title="CANALES DE CABLE",CineMax
-http://177.10.184.193:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" group-title="CANALES DE CABLE",Concert Channel
-http://177.10.184.193:8000/play/a05p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DHE HD" group-title="CANALES DE CABLE",DHE HD
-http://177.10.184.193:8000/play/a0d5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIREC TV HD" group-title="CANALES DE CABLE",DIREC TV HD
-http://177.10.184.193:8000/play/a0fc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISC THEATHER HD" group-title="CANALES DE CABLE",DISC THEATHER HD
-http://177.10.184.193:8000/play/a09n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" group-title="CANALES DE CABLE",DISTRITO COMEDIA
-http://177.10.184.193:8000/play/a0dy/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deportes TVC - HON" group-title="CANALES DE CABLE",Deportes TVC - HON
-http://177.10.184.193:8000/play/a0bt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deportes TVC HD" group-title="CANALES DE CABLE",Deportes TVC HD
-http://177.10.184.193:8000/play/a0dt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" group-title="CANALES DE CABLE",Discovery Channel
-http://177.10.184.193:8000/play/a04z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" group-title="CANALES DE CABLE",Discovery Channel HD
-http://177.10.184.193:8000/play/a0a4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery ID HD" group-title="CANALES DE CABLE",Discovery ID HD
-http://177.10.184.193:8000/play/a0a8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" group-title="CANALES DE CABLE",Discovery Kids HD
-http://177.10.184.193:8000/play/a02s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" group-title="CANALES DE CABLE",Discovery Science
-http://177.10.184.193:8000/play/a02m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" group-title="CANALES DE CABLE",Discovery Turbo
-http://177.10.184.193:8000/play/a05j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" group-title="CANALES DE CABLE",Discovery World HD
-http://177.10.184.193:8000/play/a0a5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney" group-title="CANALES DE CABLE",Disney
-http://177.10.184.193:8000/play/a05h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney JR" group-title="CANALES DE CABLE",Disney JR
-http://177.10.184.193:8000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="E!" group-title="CANALES DE CABLE",E!
-http://177.10.184.193:8000/play/a04w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="E! Entertairment HD" group-title="CANALES DE CABLE",E! Entertairment HD
-http://177.10.184.193:8000/play/a0cx/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EBENEZER" group-title="CANALES DE CABLE",EBENEZER
-http://177.10.184.193:8000/play/a0c4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" group-title="CANALES DE CABLE",ESPN
-http://177.10.184.193:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" group-title="CANALES DE CABLE",ESPN 4 HD
-http://177.10.184.193:8000/play/a0dp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" group-title="CANALES DE CABLE",ESPN 2
-http://177.10.184.193:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" group-title="CANALES DE CABLE",ESPN 2 HD
-http://177.10.184.193:8000/play/a0db/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" group-title="CANALES DE CABLE",ESPN 3 HD
-http://177.10.184.193:8000/play/a0dc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" group-title="CANALES DE CABLE",ESPN 4
-http://177.10.184.193:8000/play/a0df/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD" group-title="CANALES DE CABLE",ESPN 5 HD
-http://177.10.184.193:8000/play/a0de/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" group-title="CANALES DE CABLE",ESPN 6 HD
-http://177.10.184.193:8000/play/a0dd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES CAJA" group-title="CANALES DE CABLE",ESPN DEPORTES CAJA
-http://177.10.184.193:8000/play/a0el/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" group-title="CANALES DE CABLE",ESPN HD
-http://177.10.184.193:8000/play/a0dg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR" group-title="CANALES DE CABLE",ESPN SUR
-http://177.10.184.193:8000/play/a0fp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EURO Channel" group-title="CANALES DE CABLE",EURO Channel
-http://177.10.184.193:8000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EWTN" group-title="CANALES DE CABLE",EWTN
-http://177.10.184.193:8000/play/a03z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" group-title="CANALES DE CABLE",El Gourmet
-http://177.10.184.193:8000/play/a04c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Europa HD" group-title="CANALES DE CABLE",Europa HD
-http://177.10.184.193:8000/play/a0fr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Europa HD" group-title="CANALES DE CABLE",Europa HD
-http://177.10.184.193:8000/play/a0d3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Exa TV" group-title="CANALES DE CABLE",Exa TV
-http://177.10.184.193:8000/play/a055/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FAMILY TV -100" group-title="CANALES DE CABLE",FAMILY TV -100
-http://177.10.184.193:8000/play/a0by/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT HD" group-title="CANALES DE CABLE",FOX SPORT HD
-http://177.10.184.193:8000/play/a0e1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FUTV HD CR" group-title="CANALES DE CABLE",FUTV HD CR
-http://177.10.184.193:8000/play/a0f1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FX" group-title="CANALES DE CABLE",FX
-http://177.10.184.193:8000/play/a048/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" group-title="CANALES DE CABLE",FX HD
-http://177.10.184.193:8000/play/a0d2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fiesta de Milagros tv" group-title="CANALES DE CABLE",Fiesta de Milagros tv
-http://177.10.184.193:8000/play/a0eg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Film & arts HD" group-title="CANALES DE CABLE",Film & arts HD
-http://177.10.184.193:8000/play/a0cy/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golden" group-title="CANALES DE CABLE",Golden
-http://177.10.184.193:8000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golden Premiere 2 HD" group-title="CANALES DE CABLE",Golden Premiere 2 HD
-http://177.10.184.193:8000/play/a02v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golden Premiere HD" group-title="CANALES DE CABLE",Golden Premiere HD
-http://177.10.184.193:8000/play/a02u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel HD" group-title="CANALES DE CABLE",Golf Channel HD
-http://177.10.184.193:8000/play/a0fs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="H2" group-title="CANALES DE CABLE",H2
-http://177.10.184.193:8000/play/a04b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" group-title="CANALES DE CABLE",HBO Family HD
-http://177.10.184.193:8000/play/a032/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" group-title="CANALES DE CABLE",HBO HD
-http://177.10.184.193:8000/play/a02z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" group-title="CANALES DE CABLE",HBO Plus HD
-http://177.10.184.193:8000/play/a031/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO2 HD" group-title="CANALES DE CABLE",HBO2 HD
-http://177.10.184.193:8000/play/a030/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HCH HD" group-title="CANALES DE CABLE",HCH HD
-http://177.10.184.193:8000/play/a0fd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HCH- HON" group-title="CANALES DE CABLE",HCH- HON
-http://177.10.184.193:8000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HOLA! TV HD" group-title="CANALES DE CABLE",HOLA! TV HD
-http://177.10.184.193:8000/play/a09p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HTV" group-title="CANALES DE CABLE",HTV
-http://177.10.184.193:8000/play/a04j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History Channel" group-title="CANALES DE CABLE",History Channel
-http://177.10.184.193:8000/play/a051/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History HD" group-title="CANALES DE CABLE",History HD
-http://177.10.184.193:8000/play/a040/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Home & Health HD" group-title="CANALES DE CABLE",Home & Health HD
-http://177.10.184.193:8000/play/a09o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Home Garden Latino" group-title="CANALES DE CABLE",Home Garden Latino
-http://177.10.184.193:8000/play/a02l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JUNCO TV" group-title="CANALES DE CABLE",JUNCO TV
-http://177.10.184.193:8000/play/a0ev/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" group-title="CANALES DE CABLE",LIFE TIME
-http://177.10.184.193:8000/play/a03o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LTV" group-title="CANALES DE CABLE",LTV
-http://177.10.184.193:8000/play/a0fj/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La voz de Maria" group-title="CANALES DE CABLE",La voz de Maria
-http://177.10.184.193:8000/play/a05m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latin America Sport" group-title="CANALES DE CABLE",Latin America Sport
-http://177.10.184.193:8000/play/a04h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEGA TV" group-title="CANALES DE CABLE",MEGA TV
-http://177.10.184.193:8000/play/a0fm/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" group-title="CANALES DE CABLE",Mas Chic
-http://177.10.184.193:8000/play/a069/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Multicinema" group-title="CANALES DE CABLE",Multicinema
-http://177.10.184.193:8000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Multipremier" group-title="CANALES DE CABLE",Multipremier
-http://177.10.184.193:8000/play/a05s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD" group-title="CANALES DE CABLE",Nat Geo HD
-http://177.10.184.193:8000/play/a0a2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic" group-title="CANALES DE CABLE",National Geographic
-http://177.10.184.193:8000/play/a03n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PARADISE" group-title="CANALES DE CABLE",PARADISE
-http://177.10.184.193:8000/play/a0et/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pasiones HD" group-title="CANALES DE CABLE",Pasiones HD
-http://177.10.184.193:8000/play/a0a6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Patepluma" group-title="CANALES DE CABLE",Patepluma
-http://177.10.184.193:8000/play/a0dx/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" group-title="CANALES DE CABLE",RCN Novelas
-http://177.10.184.193:8000/play/a049/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RHEMA TV" group-title="CANALES DE CABLE",RHEMA TV
-http://177.10.184.193:8000/play/a05y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RT EN ESPAÑOL" group-title="CANALES DE CABLE",RT EN ESPAÑOL
-http://177.10.184.193:8000/play/a0ek/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS" group-title="CANALES DE CABLE",SEMILLITAS
-http://177.10.184.193:8000/play/a03g/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT LA LIGA" group-title="CANALES DE CABLE",SKY SPORT LA LIGA
-http://177.10.184.193:8000/play/a0eh/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY HD" group-title="CANALES DE CABLE",SONY HD
-http://177.10.184.193:8000/play/a058/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" group-title="CANALES DE CABLE",SPACE HD
-http://177.10.184.193:8000/play/a061/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ST VISION" group-title="CANALES DE CABLE",ST VISION
-http://177.10.184.193:8000/play/a0eu/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" group-title="CANALES DE CABLE",STAR CHANNEL HD
-http://177.10.184.193:8000/play/a056/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SULA TV" group-title="CANALES DE CABLE",SULA TV
-http://177.10.184.193:8000/play/a0e3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SUYAPA TV" group-title="CANALES DE CABLE",SUYAPA TV
-http://177.10.184.193:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sembrador" group-title="CANALES DE CABLE",Sembrador
-http://177.10.184.193:8000/play/a04n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD" group-title="CANALES DE CABLE",Sony Movies HD
-http://177.10.184.193:8000/play/a0d4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star TVE HD" group-title="CANALES DE CABLE",Star TVE HD
-http://177.10.184.193:8000/play/a0d7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sun Channel" group-title="CANALES DE CABLE",Sun Channel
-http://177.10.184.193:8000/play/a04d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TBN Enlace" group-title="CANALES DE CABLE",TBN Enlace
-http://177.10.184.193:8000/play/a03y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TCM" group-title="CANALES DE CABLE",TCM
-http://177.10.184.193:8000/play/a04l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELE PROGRESO- 68" group-title="CANALES DE CABLE",TELE PROGRESO- 68
-http://177.10.184.193:8000/play/a0bv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECADENA 7 Y 4" group-title="CANALES DE CABLE",TELECADENA 7 Y 4
-http://177.10.184.193:8000/play/a0fk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS" group-title="CANALES DE CABLE",TELENOVELAS
-http://177.10.184.193:8000/play/a0dz/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLC" group-title="CANALES DE CABLE",TLC
-http://177.10.184.193:8000/play/a052/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" group-title="CANALES DE CABLE",TNT HD
-http://177.10.184.193:8000/play/a09m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series" group-title="CANALES DE CABLE",TNT Series
-http://177.10.184.193:8000/play/a03l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TSI HD" group-title="CANALES DE CABLE",TSI HD
-http://177.10.184.193:8000/play/a0fl/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TUDN USA" group-title="CANALES DE CABLE",TUDN USA
-http://177.10.184.193:8000/play/a0ft/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVE" group-title="CANALES DE CABLE",TVE
-http://177.10.184.193:8000/play/a05x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORT US" group-title="CANALES DE CABLE",TYC SPORT US
-http://177.10.184.193:8000/play/a0e0/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecadena HD" group-title="CANALES DE CABLE",Telecadena HD
-http://177.10.184.193:8000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo HD" group-title="CANALES DE CABLE",Telemundo HD
-http://177.10.184.193:8000/play/a0d1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Teleuniverso - RD" group-title="CANALES DE CABLE",Teleuniverso - RD
-http://177.10.184.193:8000/play/a06s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports HD" group-title="CANALES DE CABLE",Tigo Sports HD
-http://177.10.184.193:8000/play/a09k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast" group-title="CANALES DE CABLE",Tooncast
-http://177.10.184.193:8000/play/a04s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tru TV" group-title="CANALES DE CABLE",Tru TV
-http://177.10.184.193:8000/play/a03h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNE TV HD" group-title="CANALES DE CABLE",UNE TV HD
-http://177.10.184.193:8000/play/a0fg/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA ESTE HD" group-title="CANALES DE CABLE",UNIVERSAL CINEMA ESTE HD
-http://177.10.184.193:8000/play/a0a9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY HD" group-title="CANALES DE CABLE",UNIVERSAL COMEDY HD
-http://177.10.184.193:8000/play/a09x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME HD" group-title="CANALES DE CABLE",UNIVERSAL CRIME HD
-http://177.10.184.193:8000/play/a09w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE O HD" group-title="CANALES DE CABLE",UNIVERSAL PREMIERE O HD
-http://177.10.184.193:8000/play/a09u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY HD" group-title="CANALES DE CABLE",UNIVERSAL REALITY HD
-http://177.10.184.193:8000/play/a09v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Universal" group-title="CANALES DE CABLE",Universal
-http://177.10.184.193:8000/play/a05q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Univision HD" group-title="CANALES DE CABLE",Univision HD
-http://177.10.184.193:8000/play/a0a7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VALLE VISION" group-title="CANALES DE CABLE",VALLE VISION
-http://177.10.184.193:8000/play/a0bu/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VENUS" group-title="CANALES DE CABLE",VENUS
-http://177.10.184.193:8000/play/a0ds/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" group-title="CANALES DE CABLE",WARNER HD
-http://177.10.184.193:8000/play/a057/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" group-title="CANALES DE CABLE",ZooMoo
-http://177.10.184.193:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/atv.png="http://i.tvcluboficial.com/atv.png",ATV: Novelas Turcas (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1120.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ae.png="http://i.tvcluboficial.com/ae.png",A&E (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/5.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ae.png="http://i.tvcluboficial.com/ae.png",A&E HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/8.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/aplus.png="http://i.tvcluboficial.com/aplus.png",A+ (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/9.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/a24.png="http://i.tvcluboficial.com/a24.png",A24 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1163.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/a3cine.png="http://i.tvcluboficial.com/a3cine.png",A3Cine (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/14.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/a3series.png="http://i.tvcluboficial.com/a3series.png",A3Series (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/17.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/adn40.png="http://i.tvcluboficial.com/adn40.png",ADN 40 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/20.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/aljazeera.png="http://i.tvcluboficial.com/aljazeera.png",Al Jazeera (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/27.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/alf.png="http://i.tvcluboficial.com/alf.png",Alf 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/28.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/amc.png="http://i.tvcluboficial.com/amc.png",AMC (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/29.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/amc.png="http://i.tvcluboficial.com/amc.png",AMC (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/32.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/amc.png="http://i.tvcluboficial.com/amc.png",AMC HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/33.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/americaperu.png="http://i.tvcluboficial.com/americaperu.png",America TV | Peru (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/35.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ar_america.png="http://i.tvcluboficial.com/ar_america.png",America | Argentina (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1068.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/animalplanet.png="http://i.tvcluboficial.com/animalplanet.png",Animal Planet (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/41.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/animalplanet.png="http://i.tvcluboficial.com/animalplanet.png",Animal Planet HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/42.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/animaniacs.png="http://i.tvcluboficial.com/animaniacs.png",Animaniacs 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/43.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/antena3.png="http://i.tvcluboficial.com/antena3.png",Antena 3 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/45.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/pe_atv.png="http://i.tvcluboficial.com/pe_atv.png",ATV | Peru (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1063.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/axn.png="http://i.tvcluboficial.com/axn.png",AXN (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/54.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/axn.png="http://i.tvcluboficial.com/axn.png",AXN HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/58.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/axn.png="http://i.tvcluboficial.com/axn.png",AXN HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/59.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/axn.png="http://i.tvcluboficial.com/axn.png",AXN WHITE HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/61.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/aymsports.png="http://i.tvcluboficial.com/aymsports.png",AyM Sports (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/62.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/azcinema.png="http://i.tvcluboficial.com/azcinema.png",Az Cinema (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/63.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/azclic.png="http://i.tvcluboficial.com/azclic.png",Az Clic (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/64.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/azcorazon.png="http://i.tvcluboficial.com/azcorazon.png",AZ Corazon (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/66.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/azcorazon.png="http://i.tvcluboficial.com/azcorazon.png",Az Corazón HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/68.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/azmundo.png="http://i.tvcluboficial.com/azmundo.png",Az Mundo (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/70.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/azteca7.png="http://i.tvcluboficial.com/azteca7.png",Azteca 7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/72.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/azteca7.png="http://i.tvcluboficial.com/azteca7.png",Azteca 7 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/74.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/aztecaguate.png="http://i.tvcluboficial.com/aztecaguate.png",Azteca Guate (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1098.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/azteca1.png="http://i.tvcluboficial.com/azteca1.png",Azteca Uno (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/76.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/azteca1.png="http://i.tvcluboficial.com/azteca1.png",Azteca Uno HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/78.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/babytv.png="http://i.tvcluboficial.com/babytv.png",Baby TV (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/79.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/bandamax.png="http://i.tvcluboficial.com/bandamax.png",Bandamax (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/83.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/bandamax.png="http://i.tvcluboficial.com/bandamax.png",Bandamax HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/84.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/247.png="http://i.tvcluboficial.com/247.png",Bayblade 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/85.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/beinsports.png="http://i.tvcluboficial.com/beinsports.png",BeinSports (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/88.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/beinsports.png="http://i.tvcluboficial.com/beinsports.png",BeinSports HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/89.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/beinsportsn.png="http://i.tvcluboficial.com/beinsportsn.png",BeinSports Ñ (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/90.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/beinsportsn.png="http://i.tvcluboficial.com/beinsportsn.png",BeinSports Ñ HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/91.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/bitme.png="http://i.tvcluboficial.com/bitme.png",BitMe (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/92.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/bobesponja.png="http://i.tvcluboficial.com/bobesponja.png",Bob Esponja 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/96.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/breakingbad.png="http://i.tvcluboficial.com/breakingbad.png",Breaking Bad 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/98.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/c5n.png="http://i.tvcluboficial.com/c5n.png",C5N (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1162.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/caballeroszodiaco.png="http://i.tvcluboficial.com/caballeroszodiaco.png",Caballeros del Zodiaco 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/100.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/247.png="http://i.tvcluboficial.com/247.png",Calabozos y Dragones 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/103.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ni_canal10.png="http://i.tvcluboficial.com/ni_canal10.png",Canal 10 | Nicaragua (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1076.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/sa_canal12.png="http://i.tvcluboficial.com/sa_canal12.png",Canal 12 | El Salvador (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1083.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/sa_canal2.png="http://i.tvcluboficial.com/sa_canal2.png",Canal 2 | El Salvador (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1078.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ni_canal2.png="http://i.tvcluboficial.com/ni_canal2.png",Canal 2 | Nicaragua (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1075.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/sa_canal3.png="http://i.tvcluboficial.com/sa_canal3.png",Canal 3 | El Salvador (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1080.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/sa_canal4.png="http://i.tvcluboficial.com/sa_canal4.png",Canal 4 | El Salvador (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1081.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/canal5.png="http://i.tvcluboficial.com/canal5.png",Canal 5 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/106.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/canal5.png="http://i.tvcluboficial.com/canal5.png",Canal 5 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/108.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ho_canal5.png="http://i.tvcluboficial.com/ho_canal5.png",Canal 5 Honduras (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/109.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cr_canal6.png="http://i.tvcluboficial.com/cr_canal6.png",Canal 6 | Costa Rica (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1084.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/sa_canal6.png="http://i.tvcluboficial.com/sa_canal6.png",Canal 6 | El Salvador (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1082.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/mx_lasestrellas.png="http://i.tvcluboficial.com/mx_lasestrellas.png",Canal de las Estrellas (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/114.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/mx_lasestrellas.png="http://i.tvcluboficial.com/mx_lasestrellas.png",Canal de las Estrellas HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/118.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/pe_canaln.png="http://i.tvcluboficial.com/pe_canaln.png",Canal N | Peru (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1065.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/co_uno.png="http://i.tvcluboficial.com/co_uno.png",Canal Uno | Colombia (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1014.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/toros.png="http://i.tvcluboficial.com/toros.png",Canal+ Toros (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/121.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cantinflas.png="http://i.tvcluboficial.com/cantinflas.png",Cantinflas 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/123.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/caracol.png="http://i.tvcluboficial.com/caracol.png",Caracol Internacional (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/127.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/caracol.png="http://i.tvcluboficial.com/caracol.png",Caracol | Colombia (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/126.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cartoonnetwork.png="http://i.tvcluboficial.com/cartoonnetwork.png",Cartoon Network (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/128.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cartoonnetwork.png="http://i.tvcluboficial.com/cartoonnetwork.png",Cartoon Network HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/132.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cartoonito.png="http://i.tvcluboficial.com/cartoonito.png",Cartoonito (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/134.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cartoonito.png="http://i.tvcluboficial.com/cartoonito.png",Cartoonito HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/137.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/casocerrado.png="http://i.tvcluboficial.com/casocerrado.png",Caso Cerrado 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/138.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cbeebies.png="http://i.tvcluboficial.com/cbeebies.png",CBeebies (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/139.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cbs.png="http://i.tvcluboficial.com/cbs.png",CBS HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/140.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cdf.png="http://i.tvcluboficial.com/cdf.png",CDF Premium (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/142.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cdfpremium.png="http://i.tvcluboficial.com/cdfpremium.png",CDF Premium HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/143.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cdnsportsmax.png="http://i.tvcluboficial.com/cdnsportsmax.png",CDN Sportsmax (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/146.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cdopremium.png="http://i.tvcluboficial.com/cdopremium.png",CDO Premium (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/149.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/celebritydeathmatch.png="http://i.tvcluboficial.com/celebritydeathmatch.png",Celebrity Deathmatch 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/150.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/chapulincolorado.png="http://i.tvcluboficial.com/chapulincolorado.png",Chapulin Colorado 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/152.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/chespirito.jpg="http://i.tvcluboficial.com/chespirito.jpg",Chespirito 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/153.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ch_chilevision.png="http://i.tvcluboficial.com/ch_chilevision.png",Chilevision | Chile (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/155.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/telemundo.png="http://i.tvcluboficial.com/telemundo.png",Chivas vs Tigres (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1145.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine 2024 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1099.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine 2025 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1159.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Accion (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/157.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Accion HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/158.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Accion Sagas (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/159.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Accion Sagas HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/160.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Comedia (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/161.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Comedia 1 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/162.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Comedia 2 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/163.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Comedia 2 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/164.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Ficcion/Fantasia (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/165.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Ficcion/Fantasia 2 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/166.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Ficcion/Fantasia 2 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/167.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Ficcion/Fantasia HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/168.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Infantil (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/169.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Infantil HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/170.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Infantil Sagas (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/171.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Infantil Sagas HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/172.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cinelatino.png="http://i.tvcluboficial.com/cinelatino.png",Cine Latino (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/173.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Marvel (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/176.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Marvel HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/177.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Romance (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/178.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Romance HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/179.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Terror (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/180.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Terror HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/181.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Terror Sagas HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/182.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Zombis (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/183.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Cine Zombis HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/184.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cinecanal.png="http://i.tvcluboficial.com/cinecanal.png",Cinecanal (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/185.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cinecanal.png="http://i.tvcluboficial.com/cinecanal.png",Cinecanal HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/188.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cinemadinamita.png="http://i.tvcluboficial.com/cinemadinamita.png",Cinema Dinamita (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1153.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cinemax.png="http://i.tvcluboficial.com/cinemax.png",Cinemax (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/190.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cinemax.png="http://i.tvcluboficial.com/cinemax.png",Cinemax HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/196.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/clarosports.png="http://i.tvcluboficial.com/clarosports.png",Claro Sports (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/201.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/clarosports.png="http://i.tvcluboficial.com/clarosports.png",Claro Sports 3 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1056.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/clarosports.png="http://i.tvcluboficial.com/clarosports.png",Claro Sports 4 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1057.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/comedycentral.png="http://i.tvcluboficial.com/comedycentral.png",Comedy Central (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/216.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/comedycentral.png="http://i.tvcluboficial.com/comedycentral.png",Comedy Central (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/219.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/comedycentral.png="http://i.tvcluboficial.com/comedycentral.png",Comedy Central HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/220.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/coraje.png="http://i.tvcluboficial.com/coraje.png",Coraje el Perro Cobarde 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/223.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/dazn.png="http://i.tvcluboficial.com/dazn.png",DAZN 2 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1126.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/dazn.png="http://i.tvcluboficial.com/dazn.png",DAZN HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1148.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/depelicula.png="http://i.tvcluboficial.com/depelicula.png",De Pelicula (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/234.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/dpeliculaclasico.png="http://i.tvcluboficial.com/dpeliculaclasico.png",De Pelicula Clasico (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/236.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/depelicula.png="http://i.tvcluboficial.com/depelicula.png",De Pelicula HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/237.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/dpeliculaplus.png="http://i.tvcluboficial.com/dpeliculaplus.png",De Pelicula Plus HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/239.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ho_deportestvc.png="http://i.tvcluboficial.com/ho_deportestvc.png",Deportes TVC | Honduras (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1071.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/dhe.png="http://i.tvcluboficial.com/dhe.png",DHE (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/242.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/dinosaurios.png="http://i.tvcluboficial.com/dinosaurios.png",Dinosaurios 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/244.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/discoverychannel.png="http://i.tvcluboficial.com/discoverychannel.png",Discovery Channel (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/247.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/discoverychannel.png="http://i.tvcluboficial.com/discoverychannel.png",Discovery Channel HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/251.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/discoverycivilization.png="http://i.tvcluboficial.com/discoverycivilization.png",Discovery Civilization (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/252.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/discoveryhh.png="http://i.tvcluboficial.com/discoveryhh.png",Discovery H&H (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/254.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/discoveryhh.png="http://i.tvcluboficial.com/discoveryhh.png",Discovery H&H HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/258.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/discoverykids.png="http://i.tvcluboficial.com/discoverykids.png",Discovery Kids (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/264.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/discoverykids.png="http://i.tvcluboficial.com/discoverykids.png",Discovery Kids HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/266.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/discoverysci.png="http://i.tvcluboficial.com/discoverysci.png",Discovery SCI (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/267.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/discoverytheater.png="http://i.tvcluboficial.com/discoverytheater.png",Discovery Theater HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/271.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/discoveryturbo.png="http://i.tvcluboficial.com/discoveryturbo.png",Discovery Turbo (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/274.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/discoveryturbo.png="http://i.tvcluboficial.com/discoveryturbo.png",Discovery Turbo HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/275.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/discoveryworld.png="http://i.tvcluboficial.com/discoveryworld.png",Discovery World (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/276.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/disneychannel.png="http://i.tvcluboficial.com/disneychannel.png",Disney Channel (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/280.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/disneyjr.png="http://i.tvcluboficial.com/disneyjr.png",Disney Junior (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/284.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/disneyjr.png="http://i.tvcluboficial.com/disneyjr.png",Disney Junior HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/287.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/disneyxd.png="http://i.tvcluboficial.com/disneyxd.png",Disney XD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/289.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/distritocomedia.png="http://i.tvcluboficial.com/distritocomedia.png",Distrito Comedia (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/293.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/doraemon.png="http://i.tvcluboficial.com/doraemon.png",Doraemon 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/297.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/247.png="http://i.tvcluboficial.com/247.png",Doug 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/298.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/drhouse.png="http://i.tvcluboficial.com/drhouse.png",Dr. House 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/299.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/dragonball.png="http://i.tvcluboficial.com/dragonball.png",Dragon Ball 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/301.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/dragonballgt.png="http://i.tvcluboficial.com/dragonballgt.png",Dragon Ball GT 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/303.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/dragonballsuper.png="http://i.tvcluboficial.com/dragonballsuper.png",Dragon Ball Super 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/305.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/dragonballz.png="http://i.tvcluboficial.com/dragonballz.png",Dragon Ball Z 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/307.m3u8
-
-#EXTINF:-1 tvg-https://puu.sh/xdUYa/051eb44501.png="https://puu.sh/xdUYa/051eb44501.png",Dragon Ball Z 24/7 Op.2 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/308.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/directvsports.png="http://i.tvcluboficial.com/directvsports.png",DSports (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/312.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/directvplus.png="http://i.tvcluboficial.com/directvplus.png",DSports + (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/314.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/directvsports2.png="http://i.tvcluboficial.com/directvsports2.png",DSports 2 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/315.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/directvsports2.png="http://i.tvcluboficial.com/directvsports2.png",DSports 2 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/317.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/directvsports.png="http://i.tvcluboficial.com/directvsports.png",DSports HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/324.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/directvsports.png="http://i.tvcluboficial.com/directvsports.png",DSports HD op. 2 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1144.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/247.png="http://i.tvcluboficial.com/247.png",Duelo Xiaolin 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/330.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/dw.png="http://i.tvcluboficial.com/dw.png",DW (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1091.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/e.png="http://i.tvcluboficial.com/e.png",E! (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/333.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/e.png="http://i.tvcluboficial.com/e.png",E! HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/336.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ecuavisa.png="http://i.tvcluboficial.com/ecuavisa.png",Ecuavisa | Ecuador (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/338.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/247.png="http://i.tvcluboficial.com/247.png",Edd y Eddy 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/339.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/canaldelfutbol.png="http://i.tvcluboficial.com/canaldelfutbol.png",El Canal Del Futbol (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/342.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/canaldelfutbol.png="http://i.tvcluboficial.com/canaldelfutbol.png",El Canal del Futbol (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1133.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/elchavodel8.png="http://i.tvcluboficial.com/elchavodel8.png",El Chavo del 8 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/344.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/elchavodel8.png="http://i.tvcluboficial.com/elchavodel8.png",El chavo del 8 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1173.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/elcondepatula.png="http://i.tvcluboficial.com/elcondepatula.png",El Conde Patula 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/345.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/elcoyote.png="http://i.tvcluboficial.com/elcoyote.png",El Coyote y el Correcaminos 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/346.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/elgalloclaudio.png="http://i.tvcluboficial.com/elgalloclaudio.png",El Gallo Claudio 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/347.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/elgourmet.png="http://i.tvcluboficial.com/elgourmet.png",El Gourmet (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/349.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/elnueveargentina.png="http://i.tvcluboficial.com/elnueveargentina.png",El Nueve | Argentina (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/353.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/elpajaroloco.png="http://i.tvcluboficial.com/elpajaroloco.png",El Pajaro Loco 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/355.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/247.png="http://i.tvcluboficial.com/247.png",El Pato Darkwing 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/356.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/elprincipedelrap.png="http://i.tvcluboficial.com/elprincipedelrap.png",El Principe del Rap 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/357.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/el13argentina.png="http://i.tvcluboficial.com/el13argentina.png",El Trece Argentina (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/362.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/eltrecechile.png="http://i.tvcluboficial.com/eltrecechile.png",El Trece Chile (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/360.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/247.png="http://i.tvcluboficial.com/247.png",Elementary 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/363.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/enlace.png="http://i.tvcluboficial.com/enlace.png",Enlace (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1092.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espn.png="http://i.tvcluboficial.com/espn.png",ESPN 1 | Argentina (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1111.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espn.png="http://i.tvcluboficial.com/espn.png",ESPN 1 | Chile (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1132.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espn.png="http://i.tvcluboficial.com/espn.png",ESPN 1 | Colombia (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1107.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espn.png="http://i.tvcluboficial.com/espn.png",ESPN 1 | Mexico (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/401.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espn.png="http://i.tvcluboficial.com/espn.png",ESPN 1 | Sur (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/368.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espn2.png="http://i.tvcluboficial.com/espn2.png",ESPN 2 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/375.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espn2.png="http://i.tvcluboficial.com/espn2.png",ESPN 2 | Mexico (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/378.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espn2.png="http://i.tvcluboficial.com/espn2.png",ESPN 2 | Sur (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/372.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espn3.png="http://i.tvcluboficial.com/espn3.png",ESPN 3 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/386.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espn3.png="http://i.tvcluboficial.com/espn3.png",ESPN 3 | Mexico (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1110.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espn3.png="http://i.tvcluboficial.com/espn3.png",ESPN 3 | Sur (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1127.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espn4.png="http://i.tvcluboficial.com/espn4.png",ESPN 4 | Sur (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1069.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espn.png="http://i.tvcluboficial.com/espn.png",ESPN 5 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1104.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espn.png="http://i.tvcluboficial.com/espn.png",ESPN 6 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1105.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espn.png="http://i.tvcluboficial.com/espn.png",ESPN 7 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1106.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espn.png="http://i.tvcluboficial.com/espn.png",ESPN Deportes (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1165.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espn.png="http://i.tvcluboficial.com/espn.png",ESPN HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/400.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espn.png="http://i.tvcluboficial.com/espn.png",ESPN HD | Colombia (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1161.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espnplus.png="http://i.tvcluboficial.com/espnplus.png",ESPN Plus (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/404.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espnplus.png="http://i.tvcluboficial.com/espnplus.png",ESPN Plus HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/405.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/espnpremium.png="http://i.tvcluboficial.com/espnpremium.png",ESPN Premium HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/408.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/estrellatv.png="http://i.tvcluboficial.com/estrellatv.png",Estrella TV (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/409.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/europa.png="http://i.tvcluboficial.com/europa.png",Europa Europa (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/413.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/directvsports.png="http://i.tvcluboficial.com/directvsports.png",Eventos (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1131.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ewtn.png="http://i.tvcluboficial.com/ewtn.png",EWTN (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1093.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/fearthewalkingdead.png="http://i.tvcluboficial.com/fearthewalkingdead.png",Fear The Walking Dead 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/415.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/filmarts.png="http://i.tvcluboficial.com/filmarts.png",Film & Arts HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/419.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/foodnetwork.png="http://i.tvcluboficial.com/foodnetwork.png",Food Network (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/424.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/f1.png="http://i.tvcluboficial.com/f1.png",Formula 1 TV (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/426.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/f1.png="http://i.tvcluboficial.com/f1.png",Formula 1 TV HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/427.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/forotv.png="http://i.tvcluboficial.com/forotv.png",Foro TV (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/429.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/fox.png="http://i.tvcluboficial.com/fox.png",Fox HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/430.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/foxdeportes.png="http://i.tvcluboficial.com/foxdeportes.png",Fox Deportes (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1114.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/foxnews.png="http://i.tvcluboficial.com/foxnews.png",Fox News (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/433.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/foxsports.png="http://i.tvcluboficial.com/foxsports.png",Fox Sports 1 | HD Sur (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/452.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/foxsports.png="http://i.tvcluboficial.com/foxsports.png",Fox Sports 1 | Mexico (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/456.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/foxsportssur.png="http://i.tvcluboficial.com/foxsportssur.png",Fox Sports 1 | Sur (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/435.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/foxsports2sur.png="http://i.tvcluboficial.com/foxsports2sur.png",Fox Sports 2 | Chile (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1123.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/foxsports2.png="http://i.tvcluboficial.com/foxsports2.png",Fox Sports 2 | HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/439.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/foxsports2.png="http://i.tvcluboficial.com/foxsports2.png",Fox Sports 2 | HD Sur (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/438.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/foxsports2.png="http://i.tvcluboficial.com/foxsports2.png",Fox Sports 2 | Mexico (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/441.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/foxsports2sur.png="http://i.tvcluboficial.com/foxsports2sur.png",Fox Sports 2 | Sur (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/436.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/foxsports3.png="http://i.tvcluboficial.com/foxsports3.png",Fox Sports 3 | HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/446.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/foxsports3.png="http://i.tvcluboficial.com/foxsports3.png",Fox Sports 3 | Mexico (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/448.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/foxsports3sur.png="http://i.tvcluboficial.com/foxsports3sur.png",Fox Sports 3 | Sur (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/468.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/foxsports.png="http://i.tvcluboficial.com/foxsports.png",Fox Sports HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/454.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/foxsportspremium.png="http://i.tvcluboficial.com/foxsportspremium.png",Fox Sports Premium (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/461.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/foxsportspremium.png="http://i.tvcluboficial.com/foxsportspremium.png",Fox Sports Premium HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/464.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/foxsportspremium.png="http://i.tvcluboficial.com/foxsportspremium.png",Fox Sports Premium HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/463.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/foxsports.png="http://i.tvcluboficial.com/foxsports.png",Fox Sports Sur (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/465.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/247.png="http://i.tvcluboficial.com/247.png",Friends 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/470.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/fs1.png="http://i.tvcluboficial.com/fs1.png",FS1 USA HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/471.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/fs2.png="http://i.tvcluboficial.com/fs2.png",FS2 USA HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/472.m3u8
-
-#EXTINF:-1 tvg-="",Futurama 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/473.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cr_futv.png="http://i.tvcluboficial.com/cr_futv.png",Futv | Costa Rica (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1074.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/fx.png="http://i.tvcluboficial.com/fx.png",FX (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/474.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/fx.png="http://i.tvcluboficial.com/fx.png",FX HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/477.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/fxm.png="http://i.tvcluboficial.com/fxm.png",FXM (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/478.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/fxm.png="http://i.tvcluboficial.com/fxm.png",FXM HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/480.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/galatv.png="http://i.tvcluboficial.com/galatv.png",Gala TV (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/481.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/galatv.png="http://i.tvcluboficial.com/galatv.png",Gala TV HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/482.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/gamavision.png="http://i.tvcluboficial.com/gamavision.png",Gamavision (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/483.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/gameofthrones.png="http://i.tvcluboficial.com/gameofthrones.png",Game of Thrones 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/484.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/garagetv.png="http://i.tvcluboficial.com/garagetv.png",Garage TV HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/485.m3u8
-
-#EXTINF:-1 tvg-="",Garfield 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/486.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/glitz.png="http://i.tvcluboficial.com/glitz.png",Glitz (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/488.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tvglobo.png="http://i.tvcluboficial.com/tvglobo.png",Globo | Brasil (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1103.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/golperu.png="http://i.tvcluboficial.com/golperu.png",Gol Peru (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/490.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/golperu.png="http://i.tvcluboficial.com/golperu.png",Gol TV Ecuador (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1060.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/goltv.png="http://i.tvcluboficial.com/goltv.png",Gol TV HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/492.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/goltv.png="http://i.tvcluboficial.com/goltv.png",Gol TV | España (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1125.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/golden.png="http://i.tvcluboficial.com/golden.png",Golden (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/494.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/goldenedge.png="http://i.tvcluboficial.com/goldenedge.png",Golden Edge (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/495.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/golden.png="http://i.tvcluboficial.com/golden.png",Golden HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/497.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/golden.png="http://i.tvcluboficial.com/golden.png",Golden Premier 2 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/502.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/golfchannel.png="http://i.tvcluboficial.com/golfchannel.png",Golf Channel HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/504.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/greysanatomy.png="http://i.tvcluboficial.com/greysanatomy.png",Greys Anatomy 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/505.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/guatevision.png="http://i.tvcluboficial.com/guatevision.png",Guatevision (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1089.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/h2.png="http://i.tvcluboficial.com/h2.png",H2 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/509.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/happytreefriends.png="http://i.tvcluboficial.com/happytreefriends.png",Happy Tree Friends 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/511.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/hbo.png="http://i.tvcluboficial.com/hbo.png",HBO (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/512.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/hbo2.png="http://i.tvcluboficial.com/hbo2.png",HBO 2 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/518.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/hbo2.png="http://i.tvcluboficial.com/hbo2.png",HBO 2 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/520.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/hbofamily.png="http://i.tvcluboficial.com/hbofamily.png",HBO Family (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/525.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/hbofamily.png="http://i.tvcluboficial.com/hbofamily.png",HBO Family HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/526.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/hbo.png="http://i.tvcluboficial.com/hbo.png",HBO HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/527.m3u8
-
-#EXTINF:-1 tvg-https://i.tvcluboficial.com/hbomundi.png="https://i.tvcluboficial.com/hbomundi.png",HBO Mundi (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1101.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/hboplus.png="http://i.tvcluboficial.com/hboplus.png",HBO Plus (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/531.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/hboplus.png="http://i.tvcluboficial.com/hboplus.png",HBO Plus HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/534.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/hboplus.png="http://i.tvcluboficial.com/hboplus.png",HBO Plus Oeste HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/536.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/hbopop.png="http://i.tvcluboficial.com/hbopop.png",HBO Pop (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/538.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/hboxtreme.png="http://i.tvcluboficial.com/hboxtreme.png",HBO Xtreme (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/543.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/hchhonduras.png="http://i.tvcluboficial.com/hchhonduras.png",HCH (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/547.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/247.png="http://i.tvcluboficial.com/247.png",Hercules 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/550.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/heyarnold.png="http://i.tvcluboficial.com/heyarnold.png",Hey Arnold 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/551.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/history.png="http://i.tvcluboficial.com/history.png",Historia (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/554.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/history.png="http://i.tvcluboficial.com/history.png",History Channel (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/558.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/history.png="http://i.tvcluboficial.com/history.png",History Channel HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/560.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/hola.png="http://i.tvcluboficial.com/hola.png",Hola TV (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/564.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/htv.png="http://i.tvcluboficial.com/htv.png",HTV (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/568.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/isat.png="http://i.tvcluboficial.com/isat.png",I.Sat (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/572.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/imagentv.png="http://i.tvcluboficial.com/imagentv.png",Imagen Television (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/576.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/imagentv.png="http://i.tvcluboficial.com/imagentv.png",Imagen Televisión HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/577.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/investigationdiscovery.png="http://i.tvcluboficial.com/investigationdiscovery.png",Investigation Discovery (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/579.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/investigationdiscovery.png="http://i.tvcluboficial.com/investigationdiscovery.png",Investigation Discovery HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/581.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ironman.png="http://i.tvcluboficial.com/ironman.png",Ironman 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/582.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/itv.png="http://i.tvcluboficial.com/itv.png",ITV Deportes (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1095.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/johnnybravo.png="http://i.tvcluboficial.com/johnnybravo.png",Johnny Bravo 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/584.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/la1.png="http://i.tvcluboficial.com/la1.png",La 1 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/588.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/la2hd.png="http://i.tvcluboficial.com/la2hd.png",La 2 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/589.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/247.png="http://i.tvcluboficial.com/247.png",La Casa de los Dibujos 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/590.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/lafamiliamonster.png="http://i.tvcluboficial.com/lafamiliamonster.png",La Familia Monster 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/591.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/lahorapico.png="http://i.tvcluboficial.com/lahorapico.png",La Hora Pico 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/593.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/247.png="http://i.tvcluboficial.com/247.png",La Mansion Vip (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1174.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/lapanterarosa.png="http://i.tvcluboficial.com/lapanterarosa.png",La Pantera Rosa 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/597.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/lasexta.png="http://i.tvcluboficial.com/lasexta.png",La Sexta HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/603.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/lavacayelpollito.png="http://i.tvcluboficial.com/lavacayelpollito.png",La Vaca y ElPollito 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/606.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/247.png="http://i.tvcluboficial.com/247.png",Las Aventuras de Tom Sawyer 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/607.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/247.png="http://i.tvcluboficial.com/247.png",Las Chicas Super Poderosas 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/608.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/latinatv.png="http://i.tvcluboficial.com/latinatv.png",Latina | Peru (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/765.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/latinatv.png="http://i.tvcluboficial.com/latinatv.png",Latina | Uruguay (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/609.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/letemesalaoscuridad.png="http://i.tvcluboficial.com/letemesalaoscuridad.png",Le Temes a la Oscuridad 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/611.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/lifetime.png="http://i.tvcluboficial.com/lifetime.png",Lifetime (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/615.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/pe_liga1max.png="http://i.tvcluboficial.com/pe_liga1max.png",Liga 1 Max | Peru (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1070.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ligadecampeones.png="http://i.tvcluboficial.com/ligadecampeones.png",Liga de Campeones (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/616.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ligadecampeones.png="http://i.tvcluboficial.com/ligadecampeones.png",Liga de Campeones 2 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/617.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/looneytunes.png="http://i.tvcluboficial.com/looneytunes.png",Looney Tunes 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/618.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/los3chiflados.png="http://i.tvcluboficial.com/los3chiflados.png",Los 3 Chiflados 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/619.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/losaniosmaravillosos.png="http://i.tvcluboficial.com/losaniosmaravillosos.png",Los Años Maravillosos 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/621.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/247.png="http://i.tvcluboficial.com/247.png",Los Chicos del Barrio 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/622.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/247.png="http://i.tvcluboficial.com/247.png",Los Expedientes Secretos X 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/623.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/lospicapiedra.png="http://i.tvcluboficial.com/lospicapiedra.png",Los Picapiedra 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/625.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/lospinguinosdemadagascar.png="http://i.tvcluboficial.com/lospinguinosdemadagascar.png",Los Pinguinos de Madagascar 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/626.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/lospitufos.png="http://i.tvcluboficial.com/lospitufos.png",Los Pitufos 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/627.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/lossimpsons.png="http://i.tvcluboficial.com/lossimpsons.png",Los Simpson 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/635.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/losvengadoresunidos.png="http://i.tvcluboficial.com/losvengadoresunidos.png",Los Vengadores Unidos 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/638.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/malcolm.png="http://i.tvcluboficial.com/malcolm.png",Malcolm 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/640.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/malcolm.png="http://i.tvcluboficial.com/malcolm.png",Malcolm HD 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/641.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/mariavision.png="http://i.tvcluboficial.com/mariavision.png",Maria Vision (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1097.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/maschic.png="http://i.tvcluboficial.com/maschic.png",Más chic (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/643.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/play.png="http://i.tvcluboficial.com/play.png",Max Prime HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/646.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/maxsteel.png="http://i.tvcluboficial.com/maxsteel.png",Max Steel 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/647.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/play.png="http://i.tvcluboficial.com/play.png",Max Up HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/648.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/mazingerz.png="http://i.tvcluboficial.com/mazingerz.png",Mazinger Z 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/649.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/mega.png="http://i.tvcluboficial.com/mega.png",Mega (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/652.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/mega.png="http://i.tvcluboficial.com/mega.png",Mega ES HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/653.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/mega.png="http://i.tvcluboficial.com/mega.png",Mega | Chile (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/651.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/mlb.png="http://i.tvcluboficial.com/mlb.png",MLB Network (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/658.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/morbidotv.png="http://i.tvcluboficial.com/morbidotv.png",Morbido TV (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/659.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/moviemax.png="http://i.tvcluboficial.com/moviemax.png",Movie Max (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/660.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/maccion.png="http://i.tvcluboficial.com/maccion.png",Movistar Accion HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/661.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/movistar_comedia.png="http://i.tvcluboficial.com/movistar_comedia.png",Movistar Cine Ñ (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/662.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/movistar_comedia.png="http://i.tvcluboficial.com/movistar_comedia.png",Movistar Comedia (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/663.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/movistar_deportes2.png="http://i.tvcluboficial.com/movistar_deportes2.png",Movistar Deportes 2 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/664.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/movistar_deportes.png="http://i.tvcluboficial.com/movistar_deportes.png",Movistar Deportes HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/665.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/movistar_deportes.png="http://i.tvcluboficial.com/movistar_deportes.png",Movistar Deportes | Peru (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/666.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/movistar_estrenos.png="http://i.tvcluboficial.com/movistar_estrenos.png",Movistar Estrenos HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/667.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/movistar_laliga.png="http://i.tvcluboficial.com/movistar_laliga.png",Movistar LaLiga (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1100.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/movistar_laliga.png="http://i.tvcluboficial.com/movistar_laliga.png",Movistar LaLiga HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/668.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/movistar_series.png="http://i.tvcluboficial.com/movistar_series.png",Movistar Series HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/669.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/mrbean.png="http://i.tvcluboficial.com/mrbean.png",Mr. Bean 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/670.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/mtv.png="http://i.tvcluboficial.com/mtv.png",MTV (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/674.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/mtvlive.png="http://i.tvcluboficial.com/mtvlive.png",MTV Live (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/683.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/muchmusic.png="http://i.tvcluboficial.com/muchmusic.png",Much Music (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/686.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/multimedios.png="http://i.tvcluboficial.com/multimedios.png",Multimedios (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/690.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/multimedios.png="http://i.tvcluboficial.com/multimedios.png",Multimedios (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/691.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/multimedios.png="http://i.tvcluboficial.com/multimedios.png",Multimedios HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/692.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/multimedios.png="http://i.tvcluboficial.com/multimedios.png",Multimedios HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/693.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/multimedios.png="http://i.tvcluboficial.com/multimedios.png",Multimedios Plus (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/694.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/multipremier.png="http://i.tvcluboficial.com/multipremier.png",MultiPremier (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/696.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/play.png="http://i.tvcluboficial.com/play.png",Music Now (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/698.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/musictop.png="http://i.tvcluboficial.com/musictop.png",Music Top (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/699.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/naruto.png="http://i.tvcluboficial.com/naruto.png",Naruto 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/702.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/natgeo.png="http://i.tvcluboficial.com/natgeo.png",Nat Geo (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/703.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/natgeo.png="http://i.tvcluboficial.com/natgeo.png",Nat Geo HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/706.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/natgeowild.png="http://i.tvcluboficial.com/natgeowild.png",Nat Geo Wild (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/709.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/nba.png="http://i.tvcluboficial.com/nba.png",NBA (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/710.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/nbcgolf.png="http://i.tvcluboficial.com/nbcgolf.png",NBC Golf (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/712.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/nbc.png="http://i.tvcluboficial.com/nbc.png",NBC HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/713.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/nbcuniverso.png="http://i.tvcluboficial.com/nbcuniverso.png",NBC Universo (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/714.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/neongenesis.png="http://i.tvcluboficial.com/neongenesis.png",Neon Genesis Evangelion 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/716.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/nfl.png="http://i.tvcluboficial.com/nfl.png",NFL Network (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/720.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/nhl.png="http://i.tvcluboficial.com/nhl.png",NHL Network (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/723.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/nick.png="http://i.tvcluboficial.com/nick.png",Nick (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/724.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/nick2.png="http://i.tvcluboficial.com/nick2.png",Nick 2 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/726.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/nick.png="http://i.tvcluboficial.com/nick.png",Nick HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/728.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/nickjr.png="http://i.tvcluboficial.com/nickjr.png",Nick JR (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/729.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/nickjr.png="http://i.tvcluboficial.com/nickjr.png",Nick JR HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/732.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/nicktoons.png="http://i.tvcluboficial.com/nicktoons.png",Nick Toons (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/735.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/nickelodeon.png="http://i.tvcluboficial.com/nickelodeon.png",Nickelodeon (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/736.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/247.png="http://i.tvcluboficial.com/247.png",Nosotros los Guapos 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/739.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/nova.png="http://i.tvcluboficial.com/nova.png",Nova (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/740.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/novelisima.png="http://i.tvcluboficial.com/novelisima.png",Novelisima (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1149.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/novelisima.png="http://i.tvcluboficial.com/novelisima.png",Novelisima HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1150.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/onepunchman.png="http://i.tvcluboficial.com/onepunchman.png",One Punch Man 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/744.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/pac12.png="http://i.tvcluboficial.com/pac12.png",PAC12 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/746.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/padredefamilia.png="http://i.tvcluboficial.com/padredefamilia.png",Padre de Familia 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/747.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/pakapaka.png="http://i.tvcluboficial.com/pakapaka.png",PakaPaka (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/748.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/pe_panamericana.png="http://i.tvcluboficial.com/pe_panamericana.png",Panamericana | Peru (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1064.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/paramount.png="http://i.tvcluboficial.com/paramount.png",Paramount HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/753.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/paramount.png="http://i.tvcluboficial.com/paramount.png",Paramount HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/754.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/pasiones.png="http://i.tvcluboficial.com/pasiones.png",Pasiones HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/757.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/patoaventuras.png="http://i.tvcluboficial.com/patoaventuras.png",Patoaventuras 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/758.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/patrullacanina.png="http://i.tvcluboficial.com/patrullacanina.png",Patrulla Canina 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/759.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/peppapig.png="http://i.tvcluboficial.com/peppapig.png",Peppa Pig 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/760.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/pinkyycerebro.png="http://i.tvcluboficial.com/pinkyycerebro.png",Pinky y Cerebro 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/771.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/pokemon.png="http://i.tvcluboficial.com/pokemon.png",Pokemon 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/773.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/popcornflix.png="http://i.tvcluboficial.com/popcornflix.png",PopCornFlix HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/775.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/pxtv.png="http://i.tvcluboficial.com/pxtv.png",PX TV (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/778.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/quieromusica.png="http://i.tvcluboficial.com/quieromusica.png",Quiero Musica (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/779.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ranma.png="http://i.tvcluboficial.com/ranma.png",Ranma 1/2 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/782.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/rcn.png="http://i.tvcluboficial.com/rcn.png",RCN HD | Colombia (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1146.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/rcnnovelas.png="http://i.tvcluboficial.com/rcnnovelas.png",RCN Novelas (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/788.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/rcn.png="http://i.tvcluboficial.com/rcn.png",RCN | Colombia (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/785.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/retromusic.png="http://i.tvcluboficial.com/retromusic.png",Retro Music (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/791.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/rickymorty.png="http://i.tvcluboficial.com/rickymorty.png",Rick y Morty (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1168.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ritmoson.png="http://i.tvcluboficial.com/ritmoson.png",Ritmoson Latino (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/792.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/pa_rpc.png="http://i.tvcluboficial.com/pa_rpc.png",RPC Panama (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1158.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ec_rts.png="http://i.tvcluboficial.com/ec_rts.png",RTS | Ecuador (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1090.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/247.png="http://i.tvcluboficial.com/247.png",Rugrats 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/797.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/247.png="http://i.tvcluboficial.com/247.png",Rugrats Crecidos 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/798.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/sailormoon.png="http://i.tvcluboficial.com/sailormoon.png",Sailor Moon 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/799.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/sakura.png="http://i.tvcluboficial.com/sakura.png",Sakura Card Captor 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/800.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/samuraix.png="http://i.tvcluboficial.com/samuraix.png",Samurai X 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/802.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/scoobydoo.png="http://i.tvcluboficial.com/scoobydoo.png",Scooby Doo 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/804.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cine247.png="http://i.tvcluboficial.com/cine247.png",Series Comedia 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/807.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/skysports.png="http://i.tvcluboficial.com/skysports.png",Sky Sports Bundesliga (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1124.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/skysports.png="http://i.tvcluboficial.com/skysports.png",Sky Sports LaLiga (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1079.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/skysports.png="http://i.tvcluboficial.com/skysports.png",SKY Sports Premier HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/811.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/smallville.png="http://i.tvcluboficial.com/smallville.png",Smallville 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/812.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/sony.png="http://i.tvcluboficial.com/sony.png",Sony (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/815.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/sony.png="http://i.tvcluboficial.com/sony.png",Sony HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/818.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/southpark.png="http://i.tvcluboficial.com/southpark.png",South Park 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/820.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/space.png="http://i.tvcluboficial.com/space.png",Space (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/823.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/space.png="http://i.tvcluboficial.com/space.png",Space HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/826.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/spiderman.png="http://i.tvcluboficial.com/spiderman.png",Spiderman 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/827.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/star.png="http://i.tvcluboficial.com/star.png",Star Channel (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/832.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/star.png="http://i.tvcluboficial.com/star.png",Star Channel HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/835.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/star.png="http://i.tvcluboficial.com/star.png",Star Channel HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/834.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/star_fun.png="http://i.tvcluboficial.com/star_fun.png",Star Fun (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/836.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/star_hits.png="http://i.tvcluboficial.com/star_hits.png",Star Hits HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/837.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/startve.png="http://i.tvcluboficial.com/startve.png",StarTVE (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/838.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/starz_cinema.png="http://i.tvcluboficial.com/starz_cinema.png",Starz Cinema (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/839.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/starz_comedy.png="http://i.tvcluboficial.com/starz_comedy.png",Starz Comedy (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/840.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/starz_encoreaction.png="http://i.tvcluboficial.com/starz_encoreaction.png",Starz Encore Action (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/841.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/starz_encoreblack.png="http://i.tvcluboficial.com/starz_encoreblack.png",Starz Encore Black (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/842.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/starz_encorefamily.png="http://i.tvcluboficial.com/starz_encorefamily.png",Starz Encore Family (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/843.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/starz_hd.png="http://i.tvcluboficial.com/starz_hd.png",Starz HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/844.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/studiouniversal.png="http://i.tvcluboficial.com/studiouniversal.png",Studio Universal (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/845.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/studiouniversal.png="http://i.tvcluboficial.com/studiouniversal.png",Studio Universal HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/848.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/supercampeones.png="http://i.tvcluboficial.com/supercampeones.png",Super Campeones 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/850.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/supernatural.png="http://i.tvcluboficial.com/supernatural.png",Supernatural 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/851.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/syfy.png="http://i.tvcluboficial.com/syfy.png",SyFy (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/853.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/syfy.png="http://i.tvcluboficial.com/syfy.png",SyFy HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/856.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/syfy.png="http://i.tvcluboficial.com/syfy.png",SyFy HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/857.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tbs.png="http://i.tvcluboficial.com/tbs.png",TBS Very Funny (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/859.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tbs.png="http://i.tvcluboficial.com/tbs.png",TBS Very Funny HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/860.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tc.png="http://i.tvcluboficial.com/tc.png",TC | Ecuador (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/861.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tcm.png="http://i.tvcluboficial.com/tcm.png",TCM (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/862.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/teennick.png="http://i.tvcluboficial.com/teennick.png",TeenNick (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/865.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/play.png="http://i.tvcluboficial.com/play.png",Tele (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/866.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/teleamazonas.png="http://i.tvcluboficial.com/teleamazonas.png",TeleAmazonas | Ecuador (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/867.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/co_telecaribe.png="http://i.tvcluboficial.com/co_telecaribe.png",Telecaribe | Colombia (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1066.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/telecinco.png="http://i.tvcluboficial.com/telecinco.png",Telecinco HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/871.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/teledeporte.png="http://i.tvcluboficial.com/teledeporte.png",Teledeporte HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/872.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/telefe.png="http://i.tvcluboficial.com/telefe.png",Telefe HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1172.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/telefe.png="http://i.tvcluboficial.com/telefe.png",Telefe | Argentina (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/874.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/telefe.png="http://i.tvcluboficial.com/telefe.png",Telefe | USA (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1166.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/telehitmusica.png="http://i.tvcluboficial.com/telehitmusica.png",Telehit (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/878.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/telehitmusica.png="http://i.tvcluboficial.com/telehitmusica.png",Telehit HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/879.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/telemax.png="http://i.tvcluboficial.com/telemax.png",Telemax (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/883.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/telemundo.png="http://i.tvcluboficial.com/telemundo.png",Telemundo (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/888.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/telemundo.png="http://i.tvcluboficial.com/telemundo.png",Telemundo HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/889.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/telemundo.png="http://i.tvcluboficial.com/telemundo.png",Telemundo Internacional (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1108.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/cr_teletica.png="http://i.tvcluboficial.com/cr_teletica.png",Teletica | Costa Rica (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1073.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/televicentro.png="http://i.tvcluboficial.com/televicentro.png",Televicentro | Ecuador (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/966.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/gt_televisiete.png="http://i.tvcluboficial.com/gt_televisiete.png",Televisiete | Guatemala (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1067.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/thebigbangtheory.png="http://i.tvcluboficial.com/thebigbangtheory.png",The Big Bang Theory 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/899.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tigosports.png="http://i.tvcluboficial.com/tigosports.png",Tigo Sports Guatemala (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/904.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tigosports.png="http://i.tvcluboficial.com/tigosports.png",TigoSports Bolivia (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/905.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tigosports.png="http://i.tvcluboficial.com/tigosports.png",TigoSports Paraguay (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/906.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tigosports.png="http://i.tvcluboficial.com/tigosports.png",TigoSports | Costa Rica (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1077.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tiin.png="http://i.tvcluboficial.com/tiin.png",Tiin (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/907.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tlc.png="http://i.tvcluboficial.com/tlc.png",TLC (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/911.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tlnovelas.png="http://i.tvcluboficial.com/tlnovelas.png",Tlnovelas (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/912.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tlnovelas.png="http://i.tvcluboficial.com/tlnovelas.png",Tlnovelas HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/915.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/teleritmo.png="http://i.tvcluboficial.com/teleritmo.png",TLR (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/916.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/teleritmo.png="http://i.tvcluboficial.com/teleritmo.png",TLR HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/917.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/teleritmo.png="http://i.tvcluboficial.com/teleritmo.png",TLR HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/918.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tn.png="http://i.tvcluboficial.com/tn.png",TN (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1164.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tnt.png="http://i.tvcluboficial.com/tnt.png",TNT (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/921.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tnt.png="http://i.tvcluboficial.com/tnt.png",TNT HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/926.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tnt.png="http://i.tvcluboficial.com/tnt.png",TNT HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/927.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tntseries.png="http://i.tvcluboficial.com/tntseries.png",TNT Series (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/929.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tntseries.png="http://i.tvcluboficial.com/tntseries.png",TNT Series HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/933.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tntsports.png="http://i.tvcluboficial.com/tntsports.png",TNT Sports  HD | Argentina (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1128.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tntsports.png="http://i.tvcluboficial.com/tntsports.png",TNT Sports | Argentina (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/934.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tntsports.png="http://i.tvcluboficial.com/tntsports.png",TNT Sports | Chile (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/938.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tomyjerry.png="http://i.tvcluboficial.com/tomyjerry.png",Tom y Jerry 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/940.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tooncast.png="http://i.tvcluboficial.com/tooncast.png",Tooncast (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/941.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/trece_colombia.png="http://i.tvcluboficial.com/trece_colombia.png",Trece (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/943.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/trollhunters.png="http://i.tvcluboficial.com/trollhunters.png",TrollHunters 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/945.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/trutv.png="http://i.tvcluboficial.com/trutv.png",TruTV (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/949.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/trutv.png="http://i.tvcluboficial.com/trutv.png",TruTv HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/950.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tumusicahd.png="http://i.tvcluboficial.com/tumusicahd.png",Tu Musica HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/951.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tudn.png="http://i.tvcluboficial.com/tudn.png",TUDN (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/952.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tudn.png="http://i.tvcluboficial.com/tudn.png",TUDN HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/955.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tudn.png="http://i.tvcluboficial.com/tudn.png",TUDN HD | Usa (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/957.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tudn.png="http://i.tvcluboficial.com/tudn.png",TUDN | Usa (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/956.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tvchile.png="http://i.tvcluboficial.com/tvchile.png",TV Chile (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/958.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ar_tvp.png="http://i.tvcluboficial.com/ar_tvp.png",TV Publica | Arg (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1171.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tvcdeportes.png="http://i.tvcluboficial.com/tvcdeportes.png",TVC Deportes (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/965.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tve.png="http://i.tvcluboficial.com/tve.png",TVE (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/968.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tve.png="http://i.tvcluboficial.com/tve.png",TVE HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/969.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/twoandhalfmen.png="http://i.tvcluboficial.com/twoandhalfmen.png",Two And a Half Men 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/973.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tycsports.png="http://i.tvcluboficial.com/tycsports.png",Tyc Sports (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/974.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tycsports.png="http://i.tvcluboficial.com/tycsports.png",TyC Sports HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1143.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ufc.png="http://i.tvcluboficial.com/ufc.png",UFC Network (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/977.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/unicable.png="http://i.tvcluboficial.com/unicable.png",Unicable (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/978.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/unicable.png="http://i.tvcluboficial.com/unicable.png",Unicable HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/980.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/unicable.png="http://i.tvcluboficial.com/unicable.png",Unicable HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/981.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/unimas.png="http://i.tvcluboficial.com/unimas.png",UniMas (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/982.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/universal.png="http://i.tvcluboficial.com/universal.png",Universal Channel (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/984.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/universal_cinema.png="http://i.tvcluboficial.com/universal_cinema.png",Universal Cinema HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/988.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/universal_comedy.png="http://i.tvcluboficial.com/universal_comedy.png",Universal Comedy HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/992.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/universal_crime.png="http://i.tvcluboficial.com/universal_crime.png",Universal Crime HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/996.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/universal.png="http://i.tvcluboficial.com/universal.png",Universal HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/998.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/universal_premier.png="http://i.tvcluboficial.com/universal_premier.png",Universal Premiere HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1003.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/universal_reality.png="http://i.tvcluboficial.com/universal_reality.png",Universal Reality HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1006.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/univision.png="http://i.tvcluboficial.com/univision.png",Univision (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1009.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/univisiondeportes.png="http://i.tvcluboficial.com/univisiondeportes.png",Univisión Deportes (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1010.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/play.png="http://i.tvcluboficial.com/play.png",Univisión TDN (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1012.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/tlnovelasunivision.png="http://i.tvcluboficial.com/tlnovelasunivision.png",Univision Tlnovelas (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1013.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/vamos.png="http://i.tvcluboficial.com/vamos.png",Vamos HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1015.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/vh1.png="http://i.tvcluboficial.com/vh1.png",VH1 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1016.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/vh1.png="http://i.tvcluboficial.com/vh1.png",VH1 HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1017.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/vix.png="http://i.tvcluboficial.com/vix.png",Vix Deportes (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1116.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/vix.png="http://i.tvcluboficial.com/vix.png",Vix Deportes 2 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1136.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/vix.png="http://i.tvcluboficial.com/vix.png",Vix Deportes 4 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1137.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/vix.png="http://i.tvcluboficial.com/vix.png",Vix Deportes 5 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1152.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/vix.png="http://i.tvcluboficial.com/vix.png",Vix Deportes 7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1138.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ur_vtvplus.png="http://i.tvcluboficial.com/ur_vtvplus.png",VTV Plus HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1142.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/ur_vtvplus.png="http://i.tvcluboficial.com/ur_vtvplus.png",VTV Plus | Uruguay (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1072.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/vtv.png="http://i.tvcluboficial.com/vtv.png",VTV | Uruaguay (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1028.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/wapa.png="http://i.tvcluboficial.com/wapa.png",Wapa PR (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1030.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/warnerchannel.png="http://i.tvcluboficial.com/warnerchannel.png",Warner Channel (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1032.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/warnerchannel.png="http://i.tvcluboficial.com/warnerchannel.png",Warner Channel HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1034.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/winsports.png="http://i.tvcluboficial.com/winsports.png",Win Sports (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1039.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/winsportsplus.png="http://i.tvcluboficial.com/winsportsplus.png",Win Sports + (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1041.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/winsportsplus.png="http://i.tvcluboficial.com/winsportsplus.png",Win Sports + HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1042.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/winsports.png="http://i.tvcluboficial.com/winsports.png",Win Sports HD (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1044.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/wwe.png="http://i.tvcluboficial.com/wwe.png",WWE Network (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1047.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/247.png="http://i.tvcluboficial.com/247.png",Yogui 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1051.m3u8
-
-#EXTINF:-1 tvg-http://i.tvcluboficial.com/yugioh.png="http://i.tvcluboficial.com/yugioh.png",Yu-Gi-Oh! 24/7 (General)
-http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1052.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/SxCcws3p/telefe.png="https://i.postimg.cc/SxCcws3p/telefe.png",Telefe A (Noticias)
-http://45.5.151.62:8000/play/a02s/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/SxCcws3p/telefe.png="https://i.postimg.cc/SxCcws3p/telefe.png",Telefe B (Noticias)
-http://45.5.151.147:8000/play/a00g/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/SxCcws3p/telefe.png="https://i.postimg.cc/SxCcws3p/telefe.png",Telefe C (Noticias)
-http://45.5.149.220:8000/play/a03f/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/XvgdYPnH/america-tv.png="https://i.postimg.cc/XvgdYPnH/america-tv.png",America A (Noticias)
-https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/XvgdYPnH/america-tv.png="https://i.postimg.cc/XvgdYPnH/america-tv.png",America B (Noticias)
-http://45.5.151.62:8000/play/a02t/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/XvgdYPnH/america-tv.png="https://i.postimg.cc/XvgdYPnH/america-tv.png",America C (Noticias)
-http://xott.live:8080/live/0308520/0308521/348070.ts
-
-#EXTINF:-1 tvg-https://i.postimg.cc/Tw7brWLn/canal-9.png="https://i.postimg.cc/Tw7brWLn/canal-9.png",El Nueve A (Noticias)
-http://45.5.151.62:8000/play/a00g/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/Tw7brWLn/canal-9.png="https://i.postimg.cc/Tw7brWLn/canal-9.png",El Nueve B (Noticias)
-http://45.5.151.147:8000/play/a00e/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/Tw7brWLn/canal-9.png="https://i.postimg.cc/Tw7brWLn/canal-9.png",El Nueve C (Noticias)
-http://45.5.149.220:8000/play/a03d/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/D0SX5yLH/canal-13.png="https://i.postimg.cc/D0SX5yLH/canal-13.png",El Trece A (Noticias)
-http://45.5.151.62:8000/play/a00e/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/D0SX5yLH/canal-13.png="https://i.postimg.cc/D0SX5yLH/canal-13.png",El Trece B (Noticias)
-http://45.5.151.147:8000/play/a00f/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/D0SX5yLH/canal-13.png="https://i.postimg.cc/D0SX5yLH/canal-13.png",El Trece C (Noticias)
-http://45.5.149.220:8000/play/a03e/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/RV98PPCB/cronica.png="https://i.postimg.cc/RV98PPCB/cronica.png",Cronica A (Noticias)
-http://45.5.151.147:8000/play/a009/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/RV98PPCB/cronica.png="https://i.postimg.cc/RV98PPCB/cronica.png",Cronica B (Noticias)
-http://45.5.151.147:8000/play/a009/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/RV98PPCB/cronica.png="https://i.postimg.cc/RV98PPCB/cronica.png",Cronica C (Noticias)
-http://45.5.149.220:8000/play/a037/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/XYfysPBj/c5n.png="https://i.postimg.cc/XYfysPBj/c5n.png",C5N A (Noticias)
-http://45.5.151.62:8000/play/a005/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/XYfysPBj/c5n.png="https://i.postimg.cc/XYfysPBj/c5n.png",C5N B (Noticias)
-http://45.5.151.147:8000/play/a007/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/XYfysPBj/c5n.png="https://i.postimg.cc/XYfysPBj/c5n.png",C5N C (Noticias)
-http://45.5.149.220:8000/play/a035/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/XvnBmg9w/tn.png="https://i.postimg.cc/XvnBmg9w/tn.png",TN A (Noticias)
-https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/XvnBmg9w/tn.png="https://i.postimg.cc/XvnBmg9w/tn.png",TN B (Noticias)
-http://45.5.151.62:8000/play/a006/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/XvnBmg9w/tn.png="https://i.postimg.cc/XvnBmg9w/tn.png",TN C (Noticias)
-http://xott.live:8080/live/0308520/0308521/348159.ts
-
-#EXTINF:-1 tvg-https://i.postimg.cc/jq9Qz5yw/a24.png="https://i.postimg.cc/jq9Qz5yw/a24.png",A24 (Noticias)
-http://45.5.151.62:8000/play/a02m/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/qMCK3qkC/tv-publica.png="https://i.postimg.cc/qMCK3qkC/tv-publica.png",Television Publica (Noticias)
-https://g1.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/ZRM99t2c/cgtn.png="https://i.postimg.cc/ZRM99t2c/cgtn.png",CGTN (Noticias)
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/CM9NtW5k/rt.png="https://i.postimg.cc/CM9NtW5k/rt.png",RT (Noticias)
-https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/Z5SLYprq/telesur.png="https://i.postimg.cc/Z5SLYprq/telesur.png",Telesur (Noticias)
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/9QYYD0pY/hispantv.png="https://i.postimg.cc/9QYYD0pY/hispantv.png",HispanTV (Noticias)
-https://live.presstv.ir/hls/hispantv.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/50BRWPRm/encuentro.png="https://i.postimg.cc/50BRWPRm/encuentro.png",Encuentro (Documentales)
-http://lotvservices.net:80/live/Walterdavid/9UbMJRMUpN/327037.ts
-
-#EXTINF:-1 tvg-https://i.postimg.cc/k4BQYcdT/animal-planet.png="https://i.postimg.cc/k4BQYcdT/animal-planet.png",Animal Planet (Documentales)
-http://191.97.61.32:8000/play/a05q/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKgcFR4.png="https://iili.io/JKgcFR4.png",Discovery Channel (Documentales)
-http://38.199.4.105:9999/play/a0mh/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/XvMpJvrP/discovery-science.png="https://i.postimg.cc/XvMpJvrP/discovery-science.png",Discovery Science (Documentales)
-http://181.224.255.210:8001/play/a0mo/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKgWGNs.png="https://iili.io/JKgWGNs.png",Investigation Discovery (Documentales)
-http://190.60.48.151:8010/play/a03y/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKgZg87.png="https://iili.io/JKgZg87.png",Universal Crime (Documentales)
-http://45.5.117.46:8000/play/a0i4/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKghTCv.png="https://iili.io/JKghTCv.png",History (Documentales)
-http://190.108.83.69:8000/play/a045/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKgjZ57.png="https://iili.io/JKgjZ57.png",History 2 (Documentales)
-http://181.13.252.102:8000/play/a0ab/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKgwQEv.png="https://iili.io/JKgwQEv.png",National Geographic (Documentales)
-http://191.97.61.32:8000/play/a05w/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKg8A74.png="https://iili.io/JKg8A74.png",Discovery Home & Health (Entretenimiento)
-http://181.13.252.102:8000/play/a07h/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKgSqaj.png="https://iili.io/JKgSqaj.png",E! Entertainment Television (Entretenimiento)
-http://181.13.252.102:8000/play/a050/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKgSGnt.png="https://iili.io/JKgSGnt.png",Lifetime (Entretenimiento)
-http://181.13.252.102:8000/play/a06n/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKgSQDB.png="https://iili.io/JKgSQDB.png",El Gourmet (Entretenimiento)
-http://181.13.252.102:8000/play/a06w/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKggfmQ.png="https://iili.io/JKggfmQ.png",Hola TV (Entretenimiento)
-http://45.5.116.228:8000/play/a0hx/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/dtz4wRXz/las-estrellas.png="https://i.postimg.cc/dtz4wRXz/las-estrellas.png",Las Estrellas (Entretenimiento)
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/ncC60GnN/canal-extremadura-2026.png="https://i.postimg.cc/ncC60GnN/canal-extremadura-2026.png",Canal Extremadura (Entretenimiento)
-https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/1tSGgLsP/love-the-planet.png="https://i.postimg.cc/1tSGgLsP/love-the-planet.png",Love The Planet (Entretenimiento)
-https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/bwCXTVnw/canal-sur-andalucia.png="https://i.postimg.cc/bwCXTVnw/canal-sur-andalucia.png",Canal Sur Andalucía (Entretenimiento)
-https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKgLVPp.png="https://iili.io/JKgLVPp.png",Star Channel (Peliculas - Series)
-http://38.187.2.124:8000/play/a025/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/SKQ7C41F/cine-ar.png="https://i.postimg.cc/SKQ7C41F/cine-ar.png",CINE AR (Peliculas - Series)
-http://181.13.252.102:8000/play/a024/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKgQc12.png="https://iili.io/JKgQc12.png",TNT (Peliculas - Series)
-http://190.108.80.138:8000/play/a0iy/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKgQQ2I.png="https://iili.io/JKgQQ2I.png",Space (Peliculas - Series)
-http://190.108.93.71:8000/play/a0ac/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/SRm2pBJt/universal-tv.png="https://i.postimg.cc/SRm2pBJt/universal-tv.png",Universal TV (Peliculas - Series)
-http://190.108.80.138:8000/play/a08x/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/RZGnvYvQ/amc-2024.png="https://i.postimg.cc/RZGnvYvQ/amc-2024.png",AMC (Peliculas - Series)
-http://190.108.93.71:8000/play/a08c/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKgDwBf.png="https://iili.io/JKgDwBf.png",HBO (Peliculas - Series)
-http://190.108.83.69:8000/play/a035/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/Tw5yqYgC/hbo2.png="https://i.postimg.cc/Tw5yqYgC/hbo2.png",HBO 2 (Peliculas - Series)
-http://190.108.83.69:8000/play/a06c/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/sx9gwBX9/hboplus.png="https://i.postimg.cc/sx9gwBX9/hboplus.png",HBO Plus (Peliculas - Series)
-http://38.187.2.124:8000/play/a03j/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKgDyQa.png="https://iili.io/JKgDyQa.png",Cinecanal (Peliculas - Series)
-http://190.108.93.71:8000/play/a0aj/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/8CjL34Qc/warner-tv.png="https://i.postimg.cc/8CjL34Qc/warner-tv.png",Warner TV (Peliculas - Series)
-http://190.60.48.151:8010/play/a03w/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKrHXh7.png="https://iili.io/JKrHXh7.png",TyC Sports A (Deportes)
-http://45.5.151.62:8000/play/a00l/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKrHXh7.png="https://iili.io/JKrHXh7.png",TyC Sports B (Deportes)
-http://181.209.96.155:10000/play/a12q/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png",TNT Sports Premium A (Deportes)
-http://45.5.151.62:8000/play/a02p/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png="https://i.postimg.cc/SNVhRwBK/tnt-sports-premium.png",TNT Sports Premium B (Deportes)
-http://181.209.96.155:10000/play/a12s/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/MG9tgJrh/espn-premium.png="https://i.postimg.cc/MG9tgJrh/espn-premium.png",ESPN Premium A (Deportes)
-http://45.5.151.62:8000/play/a02o/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/MG9tgJrh/espn-premium.png="https://i.postimg.cc/MG9tgJrh/espn-premium.png",ESPN Premium B (Deportes)
-http://181.209.96.155:10000/play/a15c/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKrdlR4.png="https://iili.io/JKrdlR4.png",ESPN A (Deportes)
-http://45.5.151.62:8000/play/a00o/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKrdlR4.png="https://iili.io/JKrdlR4.png",ESPN B (Deportes)
-http://191.97.61.32:8000/play/a0c0/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKrdO5x.png="https://iili.io/JKrdO5x.png",ESPN 2 A (Deportes)
-http://45.5.151.62:8000/play/a00p/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKrdO5x.png="https://iili.io/JKrdO5x.png",ESPN 2 B (Deportes)
-http://191.97.61.32:8000/play/a091/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/2jxpJxY4/espn-3.png="https://i.postimg.cc/2jxpJxY4/espn-3.png",ESPN 3 (Deportes)
-http://45.5.151.62:8000/play/a00q/index.m3u8
-
-#EXTINF:-1 tvg-https://iili.io/JKrdrqF.png="https://iili.io/JKrdrqF.png",FOX Sports (Deportes)
-http://45.5.151.62:8000/play/a00i/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/R0xX4jQq/direct-tv.png="https://i.postimg.cc/R0xX4jQq/direct-tv.png",DIRECTV Sports A (Deportes)
-http://191.97.61.32:8000/play/a08t/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/R0xX4jQq/direct-tv.png="https://i.postimg.cc/R0xX4jQq/direct-tv.png",DIRECTV Sports B (Deportes)
-http://177.53.152.117:8000/play/a07d/index.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/zfz3XzdG/eventos.png="https://i.postimg.cc/zfz3XzdG/eventos.png",Eventos A (Deportes)
-https://afy4c.envivoslatam.org/disney19/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=f86d86ac76be43ac466040c747d4b2aceea1bc99-2b-1779692387-1779638387
-
-#EXTINF:-1 tvg-https://i.postimg.cc/zfz3XzdG/eventos.png="https://i.postimg.cc/zfz3XzdG/eventos.png",Eventos B (Deportes)
-https://14c51.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=181.209.100.132&token=8e88adaeb2af6d101046862e738158abf683ad82-78-1779692632-1779638632
-
-#EXTINF:-1 tvg-https://i.postimg.cc/zfz3XzdG/eventos.png="https://i.postimg.cc/zfz3XzdG/eventos.png",Eventos C (Deportes)
-http://177.53.152.117:8000/play/a049/index.m3u8
-
-#EXTINF:-1 tvg-https://i.ibb.co/yYTGCT7/radio-m2o.png="https://i.ibb.co/yYTGCT7/radio-m2o.png",Radio M2O (Musica)
-https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/X72YMqHQ/retro-plus.png="https://i.postimg.cc/X72YMqHQ/retro-plus.png",Retro Plus (Musica)
-https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1047798552.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/26rnY7F8/cm-canal-musica.png="https://i.postimg.cc/26rnY7F8/cm-canal-musica.png",El Canal de la Musica (Musica)
-https://g2.proy-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
-
-#EXTINF:-1 tvg-https://i.postimg.cc/pTh69HVy/rocktv.png="https://i.postimg.cc/pTh69HVy/rocktv.png",RockTV (Musica)
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/Xq918kCb/toptv.png="https://i.postimg.cc/Xq918kCb/toptv.png",TopTV (Musica)
-https://isaocorp.cloudecast.com/toptv/index.m3u8
-
-#EXTINF:-1 tvg-https://i.ibb.co/Jqq4Z79/vclassictv.png="https://i.ibb.co/Jqq4Z79/vclassictv.png",Vclassic TV (Musica)
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-
-#EXTINF:-1 tvg-https://i.postimg.cc/Qt639Z1W/spirit-tv.png="https://i.postimg.cc/Qt639Z1W/spirit-tv.png",Spirit TV (Musica)
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-
 #EXTINF:-1 tvg-https://n9.cl/tr3uw3="https://n9.cl/tr3uw3",WIN+ FUTBOL HD (💫Colombia)
 http://galileatv.top:8080/blackiptv-nw/RTEUUgSnwYys/68891
 
@@ -2930,3 +745,792 @@ http://totalplay.site:80/HoracioLopez/KhS3W7Te25/592044.m3u8
 
 #EXTINF:-1 tvg-https://aymsports.net/wp-content/themes/aym-sports/assets/images/logo_alter.png="https://aymsports.net/wp-content/themes/aym-sports/assets/images/logo_alter.png",| AYM SPORTS | (DEPORTES PREMIUM)
 http://totalplay.site:80/HoracioLopez/KhS3W7Te25/592045.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hv44ev" group-title="INFANTIL",BABY FIRST
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7181
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ixht6" group-title="INFANTIL",BABY TV
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7189
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/nxqqn" group-title="INFANTIL",BITME
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7200
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/nxqqn" group-title="INFANTIL",BITME HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7114
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mdooc" group-title="INFANTIL",CARTOON NETWORK
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7088
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mdooc" group-title="INFANTIL",CARTOON NETWORK HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7234
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5cccx" group-title="INFANTIL",CARTOONITO
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7384
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5cccx" group-title="INFANTIL",CARTOONITO HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7246
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rtkxs" group-title="INFANTIL",DISCOVERY KIDS
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7098
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rtkxs" group-title="INFANTIL",DISCOVERY KIDS HD (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oxtqh" group-title="INFANTIL",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oxtqh" group-title="INFANTIL",DISNEY CHANNEL HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7473
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0xz6lt" group-title="INFANTIL",DISNEY JR
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7094
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/0xz6lt" group-title="INFANTIL",DISNEY JR HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8404
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4l8mb" group-title="INFANTIL",DREAMWORKS CHANNEL
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7470
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/d8v0a" group-title="INFANTIL",NICK
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7142
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/d8v0a" group-title="INFANTIL",NICK HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7255
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/b85t9" group-title="INFANTIL",NICK JR
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7143
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/b85t9" group-title="INFANTIL",NICK JR HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7318
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rifkd" group-title="INFANTIL",ONCE NIÑOS
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7347
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7cvaa" group-title="INFANTIL",TEEN NICK
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7144
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/8u7sm" group-title="INFANTIL",TOONCAST
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7160
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/eovza" group-title="KIDS",NICKTOONS
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/b85t9" group-title="KIDS",NICKELODEON
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/dyuaw" group-title="NAT HIST Y CULTURA",ANIMAL PLANET HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7257
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/js4g0" group-title="NAT HIST Y CULTURA",CAZA Y PESCA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8466
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9zi74" group-title="NAT HIST Y CULTURA",DISCOVERY CHANNEL HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7222
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ewwow" group-title="NAT HIST Y CULTURA",DISCOVERY CHANNEL (ESP)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8459
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xoaov" group-title="NAT HIST Y CULTURA",DISCOVERY ESPAÑOL
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7613
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/gbegs" group-title="NAT HIST Y CULTURA",DISCOVERY FAMILIA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7614
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/orq0y" group-title="NAT HIST Y CULTURA",DISCOVERY HYH HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7251
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/49yh51" group-title="NAT HIST Y CULTURA",DISCOVERY INVESTIGATION HD (1080P)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7258
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/s9ewt" group-title="NAT HIST Y CULTURA",DISCOVERY SCIENCE
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7100
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/85mi0s" group-title="NAT HIST Y CULTURA",DISCOVERY THEATER HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7468
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/87m1p" group-title="NAT HIST Y CULTURA",DISCOVERY TLC HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7254
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/flwmb" group-title="NAT HIST Y CULTURA",DISCOVERY TURBO HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7273
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wwvp9" group-title="NAT HIST Y CULTURA",DISCOVERY WORLD HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7469
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rsfkv" group-title="NAT HIST Y CULTURA",HGTV HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7443
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/bl3v1" group-title="NAT HIST Y CULTURA",HISTORIA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7545
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rpeve2" group-title="NAT HIST Y CULTURA",HISTORY HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7225
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wknjau" group-title="NAT HIST Y CULTURA",HISTORY 2 HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7476
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/jofl1" group-title="NAT HIST Y CULTURA",ODISEA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8461
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za0hz" group-title="NAT HIST Y CULTURA",NAT GEO HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7253
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za0hz" group-title="NAT HIST Y CULTURA",NATIONAL GEOGRAPHIC (ESP)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7525
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/dyuaw" group-title="NAT HIST Y CULTURA",ANIMAL PLANET HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7030
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9zi74" group-title="NAT HIST Y CULTURA",DISCOVERY CHANNEL HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7092
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/orq0y" group-title="NAT HIST Y CULTURA",DISCOVERY HYH HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7450
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/49yh51" group-title="NAT HIST Y CULTURA",DISCOVERY INVESTIGATION HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7128
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/85mi0s" group-title="NAT HIST Y CULTURA",DISCOVERY TEATHER
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7101
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/87m1p" group-title="NAT HIST Y CULTURA",DISCOVERY TLC HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7320
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/flwmb" group-title="NAT HIST Y CULTURA",DISCOVERY TURBO
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7103
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wwvp9" group-title="NAT HIST Y CULTURA",DISCOVERY WORLD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7104
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rsfkv" group-title="NAT HIST Y CULTURA",HGTV
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7204
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/rpeve2" group-title="NAT HIST Y CULTURA",HISTORY
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7126
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wknjau" group-title="NAT HIST Y CULTURA",HISTORY 2
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7353
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za0hz" group-title="NAT HIST Y CULTURA",NAT GEO
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7379
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/dyuaw" group-title="NAT HIST Y CULTURA",ANIMAL PLANET
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7368
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9zi74" group-title="NAT HIST Y CULTURA",DISCOVERY CHANNEL
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7367
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/orq0y" group-title="NAT HIST Y CULTURA",DISCOVERY HYH
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7093
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/49yh51" group-title="NAT HIST Y CULTURA",DISCOVERY INVESTIGATION
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7340
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/87m1p" group-title="NAT HIST Y CULTURA",DISCOVERY TLC
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7102
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/dyuaw" group-title="NAT HIST Y CULTURA",ANIMAL PLANET (USA)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7546
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/za0hz" group-title="NAT HIST Y CULTURA",NAT GEO (USA)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8476
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AXN HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7321
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AXN (ESP)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8456
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AXN MOVIES
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7543
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",CINECANAL HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7219
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",STAR CHANNEL HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7252
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",WARNER HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7230
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AXN
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7031
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",CINECANAL HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7090
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",STAR CHANNEL HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/13909
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",WARNER
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7167
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",CINECANAL
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7357
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",AXN (DUAL)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/14950
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES",STAR CHANNEL
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7115
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wqa6n" group-title="PREMIUM PACK",DE PELICULA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7194
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wqa6n" group-title="PREMIUM PACK",DE PELICULA HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7278
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/53y8h" group-title="PREMIUM PACK",DE PELICULA PLUS
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7099
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/53y8h" group-title="PREMIUM PACK",DE PELICULA PLUS HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7279
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vs3x1" group-title="PREMIUM PACK",GOLDEN
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7174
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vs3x1" group-title="PREMIUM PACK",GOLDEN HD (1080P)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8452
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kvzei" group-title="PREMIUM PACK",GOLDEN EDGE
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7123
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/kvzei" group-title="PREMIUM PACK",GOLDEN EDGE HD (1080P)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8464
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x8hap" group-title="PREMIUM PACK",GOLDEN PLUS
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7124
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x8hap" group-title="PREMIUM PACK",GOLDEN PLUS HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7224
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ciuhiv" group-title="PREMIUM PACK",GOLDEN PREMIER
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7309
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/po527" group-title="PREMIUM PACK",GOLDEN PREMIER 2
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7386
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hrwv4" group-title="PREMIUM PACK",HBO (NORTE)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/14952
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hrwv4" group-title="PREMIUM PACK",HBO (SUR)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/9293
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hrwv4" group-title="PREMIUM PACK",HBO (MEX)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7323
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hrwv4" group-title="PREMIUM PACK",HBO (USA)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/9264
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/c7xql" group-title="PREMIUM PACK",HBO 2 (LAT)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/14953
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/c7xql" group-title="PREMIUM PACK",HBO 2 (MEX)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7432
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/4ys36" group-title="PREMIUM PACK",HBO COMEDY USA (DUAL)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8276
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",HBO DRAMA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8499
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x3d14k" group-title="PREMIUM PACK",HBO FAMILY (MEX) HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7432
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",HBO HITS
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8503
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIUM PACK",HBO MOVIES (DUAL)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7472
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6niss" group-title="PREMIUM PACK",HBO MUNDI (MEX) HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7436
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lzjwd" group-title="PREMIUM PACK",HBO PLUS (MEX) HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7434
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oq51n" group-title="PREMIUM PACK",HBO POP (MEX) HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7438
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/uv8rd" group-title="PREMIUM PACK",HBO SIGNATURE (MEX) HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7435
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yh237" group-title="PREMIUM PACK",HBO XTREME (MEX) HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7437
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/hrwv4" group-title="PREMIUM PACK",HBO (MEX) HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7431
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/c7xql" group-title="PREMIUM PACK",HBO 2 (MEX)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7325
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x3d14k" group-title="PREMIUM PACK",HBO FAMILY (MEX)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7433
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/6niss" group-title="PREMIUM PACK",HBO MUNDI MEX
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7304
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/lzjwd" group-title="PREMIUM PACK",HBO PLUS (MEX)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7324
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/oq51n" group-title="PREMIUM PACK",HBO POP (MEX)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7305
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/yh237" group-title="PREMIUM PACK",HBO XTREME (MEX)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7327
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/x3d14k" group-title="PREMIUM PACK",HBO FAMILY (MEX)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7326
+#EXTINF:-1,La lista de Schindler - 1993
+http://alfa.7057460.xyz:2095/movie/brenda38/brenda64/2094.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2qccz" group-title="PREMIUM PACK",HBO ZONE USA (DUAL)
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7uxur" group-title="PREMIUM PACK",MOVISTAR COMEDIA
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/06qyq" group-title="PREMIUM PACK",MOVISTAR DRAMA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7523
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ji46j" group-title="PREMIUM PACK",MOVISTAR ESTRENOS
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7524
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/vem7e" group-title="PREMIUM PACK",SONY CHANNEL
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7474
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/2czsn" group-title="PREMIUM PACK",SONY CINE
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/14162
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/dowyfu" group-title="PREMIUM PACK",SONY MOVIE
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7359
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/dowyfu" group-title="PREMIUM PACK",SONY MOVIES
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/14169
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/5djo4w" group-title="PREMIUM PACK",TNT
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7371
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/npa79" group-title="PREMIUM PACK",TNT NOVELAS
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7218
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wt9ctd" group-title="PREMIUM PACK",TNT SERIES
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7159
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/wt9ctd" group-title="PREMIUM PACK",TNT SERIES HD (1080P)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7228
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ygrzg" group-title="PREMIUM PACK",UNIVERSAL TV
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7338
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/emb9s" group-title="PREMIUM PACK",UNIVERSAL CINEMA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7465
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/u1w30" group-title="PREMIUM PACK",UNIVERSAL COMEDY
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7467
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/ag7ryi" group-title="PREMIUM PACK",UNIVERSAL CRIME
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7464
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/tlxdod" group-title="PREMIUM PACK",UNIVERSAL PREMIERE
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7466
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/60qudb" group-title="PREMIUM PACK",UNIVERSAL REALITY
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7463
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/26wov" group-title="PREMIUM PACK",5 STARMAX (DUAL)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8510
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/9xddx0" group-title="PREMIUM PACK",ACTIONMAX (DUAL)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7793
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/xatq7h" group-title="PREMIUM PACK",MAXLATINO (DUAL)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7834
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/b3dv9j" group-title="PREMIUM PACK",MOREMAX (dual)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7591
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mfh8u" group-title="PREMIUM PACK",MOVIEMAX (dual)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7519
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/7px3n" group-title="PREMIUM PACK",MGM (DUAL)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7864
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/krv1t" group-title="PREMIUM PACK",MGM DRIVE IN (DUAL)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8500
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mtpyso" group-title="PREMIUM PACK",MGM HITS (DUAL)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7592
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/mxstwa" group-title="PREMIUM PACK",MGM MARQUEE (DUAL)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7590
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/h2rjd" group-title="PREMIUM PACK",STARZ CINEMA (DUAL)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8518
+#EXTINF:-1 tvg-id="" tvg-logo="https://n9.cl/71q3ln" group-title="PREMIUM PACK",STARZ ENCORE ACTION (DUAL)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8406
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",ANIMAL PLANET
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7368
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",ANIMAL PLANET HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7030
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",CRIMEN E INVESTIGACION
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7307
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY CHANNEL
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7367
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY CHANNEL HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7092
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY CHANNEL HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7222
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY EN ESPAÑOL
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7613
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY FAMILIA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7614
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY HYH
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7093
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY HYH HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7450
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY HYH HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7251
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY INVESTIGATION
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7340
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY INVESTIGATION HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7128
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY INVESTIGATION HD (1080P)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7258
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY SCIENCE
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7100
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY THEATER
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7101
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY THEATER HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7468
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY TLC
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7102
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY TLC HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7320
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY TLC HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7254
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY TURBO
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7103
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY TURBO HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7273
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY WORLD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7104
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",DISCOVERY WORLD HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7469
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",HGTV
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7204
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",HGTV HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7443
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",HISTORY
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7126
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",HISTORY HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7225
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",HISTORY 2
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7353
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",HISTORY 2 HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7476
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",NAT GEO
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7379
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",NAT GEO HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7253
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",HGTV (ENG)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7362
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HIST CULT Y NAT",OUTDOOR CHANNEL
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7823
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",ADULT SWIM
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7161
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",COMEDY CENTRAL
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7089
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",COMEDY CENTRAL HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7221
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",DISTRITO COMEDIA HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7277
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",DW
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7615
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",E! ENTERTAINMENT
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7043
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",E! ENTERTAINMENT HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7250
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",EL GOURMET
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7125
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",EL GOURMET HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8405
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",HOLA TV
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7127
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",LIFETIME
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7129
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",LIFETIME HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7242
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",FOOD NETWORK
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7172
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",MAS CHIC
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7130
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",MAS CHIC HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8407
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",PASIONES
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7479
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",TLN NOVELAS HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8451
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",WOBI
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7168
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",ESPN 1 ARG
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7790
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",ESPN 2 ARG
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7791
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",ESPN 3 ARG
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7792
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",ESPN 4 ARG
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7789
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",ESPN DEPORTES
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7796
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",ESPN 1 MEX HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7275
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",ESPN 2 MEX HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7237
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",ESPN 3 MEX
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7108
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",ESPN 3 MEX HD (1080P)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8411
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",ESPN 4 MEX
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7107
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",ESPN 4 MEX HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7485
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",ESPN 1 USA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7794
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",ESPN 2 USA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7795
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",FOX SPORTS 1 ARG
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7780
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",FOX SPORTS 2 ARG
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7781
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",FOX SPORTS 3 ARG
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7782
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",FOX SPORTS 1 MEX
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7118
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",FOX SPORTS 1 MEX HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7248
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",FOX SPORTS 2 MEX
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7117
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",FOX SPORTS 2 MEX HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7247
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",FOX SPORTS 3 MEX
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7363
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",FOX SPORTS 3 MEX HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7176
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",FOX DEPORTES
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7787
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",FOX SPORTS PREMIUM HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7171
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",FOX SPORTS 1 USA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7785
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",FOX SPORTS 2 USA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7786
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPN - FOX",FOX SOCCER PLUS
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7788
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",WIN SPORTS
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7826
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",WIN SPORTS PLUS
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7827
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",D SPORTS  COL
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7815
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",D SPORTS 2 ARG
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7811
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",D SPORTS PLUS
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7310
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",D4ZN 1
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7797
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",D4ZN  2
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7798
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",D4ZN LA LIGA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7806
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",D4ZN F1
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7801
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",EUROSPORTS 1
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7828
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",EUROSPORTS 2
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7829
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",MOVISTAR DEPORTES
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7802
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",MOVISTAR DEPORTES PERU
+http://alfa.7057460.x yz:2095/julinnn2/Camion01/7397
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",MOVISTAR GOLF
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7803
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",MOVISTAR LA LIGA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7804
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",MOVISTAR LIGA DE CAMPEONES
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7807
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",TIGO SPORTS HOND
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7849
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",TIGO SPORTS COSTA RICA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7850
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",TIGO SPORTS BOLIVIA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7851
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",TNT SPORTS PREMIUM ARG
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7832
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",TNT SPORTS CHILE
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7833
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",TNT SPORT 2 CHILE
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7848
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",TUDN MEX
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7202
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",TUDN MEX (720p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7764
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",TUDN MEX HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7276
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",TUDN USA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7765
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",TUDN USA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7754
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PACK DEPORTES",TUDN VIX USA
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7763
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",AYM SPORTS
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7033
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",AZTECA DEPORTES
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7201
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ADRENALINA SPORT HD (1080P)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/8424
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",BEIN SPORT N
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7769
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",CALIENTE TV
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7812
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",CLARO SPORTS
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7378
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",FUTV
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7311
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",GOL TV LATINO
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7805
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ONETORO HD
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7824
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",PX SPORT
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7148
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",TELEDEPORTES
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7853
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",TVC DEPORTES
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7170
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",TVC DEPORTES HD (1080p)
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7249
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",TYC SPORT
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7821
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA", A&E 
+http://latinostvhd.club:25461/8642755377/437ca16994/30656
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Alf
+http://latinostvhd.club:25461/8642755377/437ca16994/30507
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",AMC (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/45928
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",America TV HD
+http://latinostvhd.club:25461/8642755377/437ca16994/77197
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Animal Planet (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/59920
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Azteca Deportes (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/30657
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",A3cine (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134284
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Atreseries (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134285
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Avengers
+http://latinostvhd.club:25461/8642755377/437ca16994/43119
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",AXN (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/30659
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",AYM (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134286
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Azteca 7 (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134288
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Azteca Uno (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134289
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Baby TV (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/59921
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Bandamax (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134332
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Gigavision
+http://latinostvhd.club:25461/8642755377/437ca16994/32773
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",C5N FHD
+http://latinostvhd.club:25461/8642755377/437ca16994/128753
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Caballeros del Zodiaco
+http://latinostvhd.club:25461/8642755377/437ca16994/63583
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Canal 5 (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134290
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Cantinflas
+http://latinostvhd.club:25461/8642755377/437ca16994/63155
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Cantinflas
+http://latinostvhd.club:25461/8642755377/437ca16994/117814
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Cartoon Network (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/30665
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Cartoonito (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/30660
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Caso Cerrado
+http://latinostvhd.club:25461/8642755377/437ca16994/45977
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Acapulco Shores
+http://latinostvhd.club:25461/8642755377/437ca16994/31232
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Documentales
+http://latinostvhd.club:25461/8642755377/437ca16994/117818
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Cine Latino (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/67196
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Cinecanal (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/30661
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Cinema Comics
+http://latinostvhd.club:25461/8642755377/437ca16994/49494
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",La Prepago
+http://latinostvhd.club:25461/8642755377/437ca16994/49493
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",One Punch Man
+http://latinostvhd.club:25461/8642755377/437ca16994/49490
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Cinema Marvel Studios
+http://latinostvhd.club:25461/8642755377/437ca16994/49495
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Cinemax MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/30663
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Claro Sports (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134291
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",CNN Espanol (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134312
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",CNN Internacional (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134292
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Comedy Central (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/30664
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Escalona
+http://latinostvhd.club:25461/8642755377/437ca16994/62841
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",De Pelicula (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/45938
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",DHE (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/45930
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Discovery Channel (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/30667
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Discovery Home & Healt (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/30666
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Discovery Kids (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/67190
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Discovery Theather (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/67191
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Discovery Turbo (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/31118
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Discovery World (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/67192
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Disney Channel (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/59922
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Disney Junior (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/31119
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Dragon Ball Z
+http://latinostvhd.club:25461/8642755377/437ca16994/30508
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",E! Entertaiment (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134293
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",El Trece FHD
+http://latinostvhd.club:25461/8642755377/437ca16994/31258
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Elgourmet (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134298
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",ESPN (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/31122
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",ESPN 2 (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/31123
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",ESPN 2 HD
+http://latinostvhd.club:25461/8642755377/437ca16994/61317
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",ESPN 3
+http://latinostvhd.club:25461/8642755377/437ca16994/77096
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",(MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/31124
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",(MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134294
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",ESPN FHD
+http://latinostvhd.club:25461/8642755377/437ca16994/128754
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",ESPN HD
+http://latinostvhd.club:25461/8642755377/437ca16994/73195
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",ESPN Premium FHD
+http://latinostvhd.club:25461/8642755377/437ca16994/78448
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Europa Europa (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/45931
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Estrellas (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134295
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Exponiendo Infieles
+http://latinostvhd.club:25461/8642755377/437ca16994/58150
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Film & Arts (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/30658
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Food Network (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/61123
+#EXTINF:-1,ARG | Fox Sports
+http://latinostvhd.club:25461/8642755377/437ca16994/128757
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Fox Sports 2 (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/31131
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Fox Sports 3 (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/31132
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Fox Sports 3 FHD
+http://latinostvhd.club:25461/8642755377/437ca16994/128759
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",ESPN Premium HD
+http://latinostvhd.club:25461/8642755377/437ca16994/61284
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",FX (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/31135
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Golden Edge (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/45937
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Golden Premier (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/45932
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",HBO (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/31138
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",HBO 2 (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/31140
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",HBO Family (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/31139
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",HBO Mundi (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134299
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",HBO Plus (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/45929
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",HBO Signature (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/45933
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",HBO Xtreme (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134300
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",History (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134301
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",History 2 (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/31137
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",HTV (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134303
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Kanal Drama (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134304
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Investigation Discovery (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/39739
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Las Estrellas (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/31120
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Lifetime (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134305
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",La Nación + HD
+http://latinostvhd.club:25461/8642755377/437ca16994/128760
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Los Picapiedras
+http://latinostvhd.club:25461/8642755377/437ca16994/117811
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",MC (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134306
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Multi Premier (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134310
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",National Geographic (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/67194
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",NBA Mexico (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134313
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Net TV HD
+http://latinostvhd.club:25461/8642755377/437ca16994/128761
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Nick MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/45939
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Nick Jr (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134315
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Novelisima (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134316
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Once (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134317
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Once Niñas y Niños (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134318
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Outdoor (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134319
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Pantera Rosa
+http://latinostvhd.club:25461/8642755377/437ca16994/43144
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Paramount (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134320
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Pasiones (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134322
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Sony Channel (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/45936
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Space (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/31141
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Star Channel (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/31125
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Star Wars
+http://latinostvhd.club:25461/8642755377/437ca16994/43165
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Studio Universal (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134324
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Super Campeones
+http://latinostvhd.club:25461/8642755377/437ca16994/31192
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",USA Network (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/31142
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",TCM (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134325
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",TeenNick (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134326
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",TLC (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134327
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",TNT Series (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/31144
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",TNT Sports Premium FHD
+http://latinostvhd.club:25461/8642755377/437ca16994/31185
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",TNT Sports Premium HD
+http://latinostvhd.club:25461/8642755377/437ca16994/42440
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",TUDN (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134311
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",TV Publica HD
+http://latinostvhd.club:25461/8642755377/437ca16994/30463
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Universal Cinema (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134329
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",TVC Deportes (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134328
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",TyC Sports FHD
+http://latinostvhd.club:25461/8642755377/437ca16994/69033
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",TyC Sports (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134330
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",TyC Sports HD
+http://latinostvhd.club:25461/8642755377/437ca16994/77099
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",TyC Sports
+http://latinostvhd.club:25461/8642755377/437ca16994/77098
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Universal Channel (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/45935
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Universal Comedy (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134423
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Universal Crime (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134424
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Universal Premiere Este (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134425
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Universal Reality (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/134427
+#EXTINF:-1,ARG | Volver HD
+http://latinostvhd.club:25461/8642755377/437ca16994/60140
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",Channel (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/31145
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARGENTINA",TNT (MX)
+http://latinostvhd.club:25461/8642755377/437ca16994/172624
+
