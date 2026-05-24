@@ -1,3 +1,329 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://i.ibb.co/0VFv6Rfz/Captura-de-pantalla-2026-02-01-110104.png" group-title="ANDEN TV PACK FUTBOL",TNT Sports
+https://anden26.ddns.net/live/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2" tvg-logo="https://i.ibb.co/0VFv6Rfz/Captura-de-pantalla-2026-02-01-110104.png" group-title="ANDEN TV PACK FUTBOL",TNT Sports Opcion 2
+https://anden92.ddns.net/live/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium" tvg-logo="https://i.ibb.co/b56nbt9h/Captura-de-pantalla-2026-02-01-105301.png" group-title="ANDEN TV PACK FUTBOL",ESPN Premium
+https://serviciosatv78.ddns.net/live/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium  OP2" tvg-logo="https://i.ibb.co/b56nbt9h/Captura-de-pantalla-2026-02-01-105301.png" group-title="ANDEN TV PACK FUTBOL",ESPN Premium Opcion 2
+http://andtv10.ddns.net/live/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exclusiva RIVER/BOCA PARTIDOS IMPORTANTES" tvg-logo="https://i.ibb.co/b56nbt9h/Captura-de-pantalla-2026-02-01-105301.png" group-title="ANDEN TV PACK FUTBOL",Exclusiva RIVER/BOCA / PARTIDOS IMPORTANTES
+https://anden26.ddns.net/live/stream.m3u8
+
+#EXTINF:11,A&E
+http://177.10.184.193:8000/play/a04x/index.m3u8
+#EXTINF:11,A&E HD
+http://177.10.184.193:8000/play/a0cz/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALFA CANAL 29" group-title="CANALES DE CABLE",ALFA CANAL 29
+http://177.10.184.193:8000/play/a0dm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" group-title="CANALES DE CABLE",AMC HD
+http://177.10.184.193:8000/play/a0d0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" group-title="CANALES DE CABLE",AXN HD
+http://177.10.184.193:8000/play/a060/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ click HD" group-title="CANALES DE CABLE",AZ click HD
+http://177.10.184.193:8000/play/a0d6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" group-title="CANALES DE CABLE",Animal Planet
+http://177.10.184.193:8000/play/a050/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" group-title="CANALES DE CABLE",Animal Planet HD
+http://177.10.184.193:8000/play/a0cw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3-91" group-title="CANALES DE CABLE",Antena 3-91
+http://177.10.184.193:8000/play/a06a/index.m3u8
+#EXTINF:11,Antena 7- RD
+http://177.10.184.193:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Atres Series" group-title="CANALES DE CABLE",Atres Series
+http://177.10.184.193:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azcorazon" group-title="CANALES DE CABLE",Azcorazon
+http://177.10.184.193:8000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azmundo/ Azteca Novelas" group-title="CANALES DE CABLE",Azmundo/ Azteca Novelas
+http://177.10.184.193:8000/play/a04t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" group-title="CANALES DE CABLE",Baby First
+http://177.10.184.193:8000/play/a047/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" group-title="CANALES DE CABLE",Baby TV
+http://177.10.184.193:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 EL LIDER HD" group-title="CANALES DE CABLE",CANAL 5 EL LIDER HD
+http://177.10.184.193:8000/play/a0e7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 MEXICO" group-title="CANALES DE CABLE",CANAL 5 MEXICO
+http://177.10.184.193:8000/play/a0ej/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 6 HD" group-title="CANALES DE CABLE",CANAL 6 HD
+http://177.10.184.193:8000/play/a0ff/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 8 HN" group-title="CANALES DE CABLE",CANAL 8 HN
+http://177.10.184.193:8000/play/a0fh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LAS ESTRELLAS MEXICO" group-title="CANALES DE CABLE",CANAL DE LAS ESTRELLAS MEXICO
+http://177.10.184.193:8000/play/a0ei/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DEL CONGRESO" group-title="CANALES DE CABLE",CANAL DEL CONGRESO
+http://177.10.184.193:8000/play/a0fi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" group-title="CANALES DE CABLE",CARTOON NETWORK HD
+http://177.10.184.193:8000/play/a0eq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE MEXICANO HD" group-title="CANALES DE CABLE",CINE MEXICANO HD
+http://177.10.184.193:8000/play/a0e9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" group-title="CANALES DE CABLE",CINECANAL HD
+http://177.10.184.193:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNNE" group-title="CANALES DE CABLE",CNNE
+http://177.10.184.193:8000/play/a03v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPAN TV CANAL30" group-title="CANALES DE CABLE",COPAN TV CANAL30
+http://177.10.184.193:8000/play/a0ez/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 - HON" group-title="CANALES DE CABLE",Canal 11 - HON
+http://177.10.184.193:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 HD" group-title="CANALES DE CABLE",Canal 11 HD
+http://177.10.184.193:8000/play/a0fe/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 3 Telesistemas HND" group-title="CANALES DE CABLE",Canal 3 Telesistemas HND
+http://177.10.184.193:8000/play/a0ep/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 - HON" group-title="CANALES DE CABLE",Canal 5 - HON
+http://177.10.184.193:8000/play/a04p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 8 TNH HN" group-title="CANALES DE CABLE",Canal 8 TNH HN
+http://177.10.184.193:8000/play/a0ah/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Azteca - GUA" group-title="CANALES DE CABLE",Canal Azteca - GUA
+http://177.10.184.193:8000/play/a0dw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Claro" group-title="CANALES DE CABLE",Canal Claro
+http://177.10.184.193:8000/play/a0do/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal VTV HND" group-title="CANALES DE CABLE",Canal VTV HND
+http://177.10.184.193:8000/play/a05e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caracol" group-title="CANALES DE CABLE",Caracol
+http://177.10.184.193:8000/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" group-title="CANALES DE CABLE",Cartoonito
+http://177.10.184.193:8000/play/a03e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" group-title="CANALES DE CABLE",Cine Latino
+http://177.10.184.193:8000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CineMax" group-title="CANALES DE CABLE",CineMax
+http://177.10.184.193:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" group-title="CANALES DE CABLE",Concert Channel
+http://177.10.184.193:8000/play/a05p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHE HD" group-title="CANALES DE CABLE",DHE HD
+http://177.10.184.193:8000/play/a0d5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIREC TV HD" group-title="CANALES DE CABLE",DIREC TV HD
+http://177.10.184.193:8000/play/a0fc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISC THEATHER HD" group-title="CANALES DE CABLE",DISC THEATHER HD
+http://177.10.184.193:8000/play/a09n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" group-title="CANALES DE CABLE",DISTRITO COMEDIA
+http://177.10.184.193:8000/play/a0dy/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deportes TVC - HON" group-title="CANALES DE CABLE",Deportes TVC - HON
+http://177.10.184.193:8000/play/a0bt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deportes TVC HD" group-title="CANALES DE CABLE",Deportes TVC HD
+http://177.10.184.193:8000/play/a0dt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" group-title="CANALES DE CABLE",Discovery Channel
+http://177.10.184.193:8000/play/a04z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" group-title="CANALES DE CABLE",Discovery Channel HD
+http://177.10.184.193:8000/play/a0a4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID HD" group-title="CANALES DE CABLE",Discovery ID HD
+http://177.10.184.193:8000/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" group-title="CANALES DE CABLE",Discovery Kids HD
+http://177.10.184.193:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" group-title="CANALES DE CABLE",Discovery Science
+http://177.10.184.193:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" group-title="CANALES DE CABLE",Discovery Turbo
+http://177.10.184.193:8000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" group-title="CANALES DE CABLE",Discovery World HD
+http://177.10.184.193:8000/play/a0a5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney" group-title="CANALES DE CABLE",Disney
+http://177.10.184.193:8000/play/a05h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR" group-title="CANALES DE CABLE",Disney JR
+http://177.10.184.193:8000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E!" group-title="CANALES DE CABLE",E!
+http://177.10.184.193:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertairment HD" group-title="CANALES DE CABLE",E! Entertairment HD
+http://177.10.184.193:8000/play/a0cx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBENEZER" group-title="CANALES DE CABLE",EBENEZER
+http://177.10.184.193:8000/play/a0c4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" group-title="CANALES DE CABLE",ESPN
+http://177.10.184.193:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" group-title="CANALES DE CABLE",ESPN 4 HD
+http://177.10.184.193:8000/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" group-title="CANALES DE CABLE",ESPN 2
+http://177.10.184.193:8000/play/a054/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" group-title="CANALES DE CABLE",ESPN 2 HD
+http://177.10.184.193:8000/play/a0db/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" group-title="CANALES DE CABLE",ESPN 3 HD
+http://177.10.184.193:8000/play/a0dc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" group-title="CANALES DE CABLE",ESPN 4
+http://177.10.184.193:8000/play/a0df/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD" group-title="CANALES DE CABLE",ESPN 5 HD
+http://177.10.184.193:8000/play/a0de/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" group-title="CANALES DE CABLE",ESPN 6 HD
+http://177.10.184.193:8000/play/a0dd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES CAJA" group-title="CANALES DE CABLE",ESPN DEPORTES CAJA
+http://177.10.184.193:8000/play/a0el/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" group-title="CANALES DE CABLE",ESPN HD
+http://177.10.184.193:8000/play/a0dg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR" group-title="CANALES DE CABLE",ESPN SUR
+http://177.10.184.193:8000/play/a0fp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURO Channel" group-title="CANALES DE CABLE",EURO Channel
+http://177.10.184.193:8000/play/a04a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" group-title="CANALES DE CABLE",EWTN
+http://177.10.184.193:8000/play/a03z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" group-title="CANALES DE CABLE",El Gourmet
+http://177.10.184.193:8000/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Europa HD" group-title="CANALES DE CABLE",Europa HD
+http://177.10.184.193:8000/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Europa HD" group-title="CANALES DE CABLE",Europa HD
+http://177.10.184.193:8000/play/a0d3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exa TV" group-title="CANALES DE CABLE",Exa TV
+http://177.10.184.193:8000/play/a055/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FAMILY TV -100" group-title="CANALES DE CABLE",FAMILY TV -100
+http://177.10.184.193:8000/play/a0by/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT HD" group-title="CANALES DE CABLE",FOX SPORT HD
+http://177.10.184.193:8000/play/a0e1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUTV HD CR" group-title="CANALES DE CABLE",FUTV HD CR
+http://177.10.184.193:8000/play/a0f1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX" group-title="CANALES DE CABLE",FX
+http://177.10.184.193:8000/play/a048/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" group-title="CANALES DE CABLE",FX HD
+http://177.10.184.193:8000/play/a0d2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fiesta de Milagros tv" group-title="CANALES DE CABLE",Fiesta de Milagros tv
+http://177.10.184.193:8000/play/a0eg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film & arts HD" group-title="CANALES DE CABLE",Film & arts HD
+http://177.10.184.193:8000/play/a0cy/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden" group-title="CANALES DE CABLE",Golden
+http://177.10.184.193:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premiere 2 HD" group-title="CANALES DE CABLE",Golden Premiere 2 HD
+http://177.10.184.193:8000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premiere HD" group-title="CANALES DE CABLE",Golden Premiere HD
+http://177.10.184.193:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel HD" group-title="CANALES DE CABLE",Golf Channel HD
+http://177.10.184.193:8000/play/a0fs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2" group-title="CANALES DE CABLE",H2
+http://177.10.184.193:8000/play/a04b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" group-title="CANALES DE CABLE",HBO Family HD
+http://177.10.184.193:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" group-title="CANALES DE CABLE",HBO HD
+http://177.10.184.193:8000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" group-title="CANALES DE CABLE",HBO Plus HD
+http://177.10.184.193:8000/play/a031/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO2 HD" group-title="CANALES DE CABLE",HBO2 HD
+http://177.10.184.193:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HCH HD" group-title="CANALES DE CABLE",HCH HD
+http://177.10.184.193:8000/play/a0fd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HCH- HON" group-title="CANALES DE CABLE",HCH- HON
+http://177.10.184.193:8000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOLA! TV HD" group-title="CANALES DE CABLE",HOLA! TV HD
+http://177.10.184.193:8000/play/a09p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HTV" group-title="CANALES DE CABLE",HTV
+http://177.10.184.193:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" group-title="CANALES DE CABLE",History Channel
+http://177.10.184.193:8000/play/a051/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History HD" group-title="CANALES DE CABLE",History HD
+http://177.10.184.193:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Home & Health HD" group-title="CANALES DE CABLE",Home & Health HD
+http://177.10.184.193:8000/play/a09o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Home Garden Latino" group-title="CANALES DE CABLE",Home Garden Latino
+http://177.10.184.193:8000/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JUNCO TV" group-title="CANALES DE CABLE",JUNCO TV
+http://177.10.184.193:8000/play/a0ev/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" group-title="CANALES DE CABLE",LIFE TIME
+http://177.10.184.193:8000/play/a03o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LTV" group-title="CANALES DE CABLE",LTV
+http://177.10.184.193:8000/play/a0fj/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La voz de Maria" group-title="CANALES DE CABLE",La voz de Maria
+http://177.10.184.193:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latin America Sport" group-title="CANALES DE CABLE",Latin America Sport
+http://177.10.184.193:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGA TV" group-title="CANALES DE CABLE",MEGA TV
+http://177.10.184.193:8000/play/a0fm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" group-title="CANALES DE CABLE",Mas Chic
+http://177.10.184.193:8000/play/a069/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multicinema" group-title="CANALES DE CABLE",Multicinema
+http://177.10.184.193:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier" group-title="CANALES DE CABLE",Multipremier
+http://177.10.184.193:8000/play/a05s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD" group-title="CANALES DE CABLE",Nat Geo HD
+http://177.10.184.193:8000/play/a0a2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" group-title="CANALES DE CABLE",National Geographic
+http://177.10.184.193:8000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PARADISE" group-title="CANALES DE CABLE",PARADISE
+http://177.10.184.193:8000/play/a0et/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones HD" group-title="CANALES DE CABLE",Pasiones HD
+http://177.10.184.193:8000/play/a0a6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Patepluma" group-title="CANALES DE CABLE",Patepluma
+http://177.10.184.193:8000/play/a0dx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RCN Novelas" group-title="CANALES DE CABLE",RCN Novelas
+http://177.10.184.193:8000/play/a049/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RHEMA TV" group-title="CANALES DE CABLE",RHEMA TV
+http://177.10.184.193:8000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT EN ESPAÑOL" group-title="CANALES DE CABLE",RT EN ESPAÑOL
+http://177.10.184.193:8000/play/a0ek/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEMILLITAS" group-title="CANALES DE CABLE",SEMILLITAS
+http://177.10.184.193:8000/play/a03g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT LA LIGA" group-title="CANALES DE CABLE",SKY SPORT LA LIGA
+http://177.10.184.193:8000/play/a0eh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY HD" group-title="CANALES DE CABLE",SONY HD
+http://177.10.184.193:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD" group-title="CANALES DE CABLE",SPACE HD
+http://177.10.184.193:8000/play/a061/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ST VISION" group-title="CANALES DE CABLE",ST VISION
+http://177.10.184.193:8000/play/a0eu/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" group-title="CANALES DE CABLE",STAR CHANNEL HD
+http://177.10.184.193:8000/play/a056/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SULA TV" group-title="CANALES DE CABLE",SULA TV
+http://177.10.184.193:8000/play/a0e3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUYAPA TV" group-title="CANALES DE CABLE",SUYAPA TV
+http://177.10.184.193:8000/play/a043/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sembrador" group-title="CANALES DE CABLE",Sembrador
+http://177.10.184.193:8000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD" group-title="CANALES DE CABLE",Sony Movies HD
+http://177.10.184.193:8000/play/a0d4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star TVE HD" group-title="CANALES DE CABLE",Star TVE HD
+http://177.10.184.193:8000/play/a0d7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel" group-title="CANALES DE CABLE",Sun Channel
+http://177.10.184.193:8000/play/a04d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBN Enlace" group-title="CANALES DE CABLE",TBN Enlace
+http://177.10.184.193:8000/play/a03y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM" group-title="CANALES DE CABLE",TCM
+http://177.10.184.193:8000/play/a04l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE PROGRESO- 68" group-title="CANALES DE CABLE",TELE PROGRESO- 68
+http://177.10.184.193:8000/play/a0bv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECADENA 7 Y 4" group-title="CANALES DE CABLE",TELECADENA 7 Y 4
+http://177.10.184.193:8000/play/a0fk/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS" group-title="CANALES DE CABLE",TELENOVELAS
+http://177.10.184.193:8000/play/a0dz/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" group-title="CANALES DE CABLE",TLC
+http://177.10.184.193:8000/play/a052/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" group-title="CANALES DE CABLE",TNT HD
+http://177.10.184.193:8000/play/a09m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" group-title="CANALES DE CABLE",TNT Series
+http://177.10.184.193:8000/play/a03l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSI HD" group-title="CANALES DE CABLE",TSI HD
+http://177.10.184.193:8000/play/a0fl/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TUDN USA" group-title="CANALES DE CABLE",TUDN USA
+http://177.10.184.193:8000/play/a0ft/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE" group-title="CANALES DE CABLE",TVE
+http://177.10.184.193:8000/play/a05x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORT US" group-title="CANALES DE CABLE",TYC SPORT US
+http://177.10.184.193:8000/play/a0e0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecadena HD" group-title="CANALES DE CABLE",Telecadena HD
+http://177.10.184.193:8000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo HD" group-title="CANALES DE CABLE",Telemundo HD
+http://177.10.184.193:8000/play/a0d1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teleuniverso - RD" group-title="CANALES DE CABLE",Teleuniverso - RD
+http://177.10.184.193:8000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports HD" group-title="CANALES DE CABLE",Tigo Sports HD
+http://177.10.184.193:8000/play/a09k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" group-title="CANALES DE CABLE",Tooncast
+http://177.10.184.193:8000/play/a04s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tru TV" group-title="CANALES DE CABLE",Tru TV
+http://177.10.184.193:8000/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNE TV HD" group-title="CANALES DE CABLE",UNE TV HD
+http://177.10.184.193:8000/play/a0fg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA ESTE HD" group-title="CANALES DE CABLE",UNIVERSAL CINEMA ESTE HD
+http://177.10.184.193:8000/play/a0a9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY HD" group-title="CANALES DE CABLE",UNIVERSAL COMEDY HD
+http://177.10.184.193:8000/play/a09x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME HD" group-title="CANALES DE CABLE",UNIVERSAL CRIME HD
+http://177.10.184.193:8000/play/a09w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE O HD" group-title="CANALES DE CABLE",UNIVERSAL PREMIERE O HD
+http://177.10.184.193:8000/play/a09u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY HD" group-title="CANALES DE CABLE",UNIVERSAL REALITY HD
+http://177.10.184.193:8000/play/a09v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal" group-title="CANALES DE CABLE",Universal
+http://177.10.184.193:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Univision HD" group-title="CANALES DE CABLE",Univision HD
+http://177.10.184.193:8000/play/a0a7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VALLE VISION" group-title="CANALES DE CABLE",VALLE VISION
+http://177.10.184.193:8000/play/a0bu/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VENUS" group-title="CANALES DE CABLE",VENUS
+http://177.10.184.193:8000/play/a0ds/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" group-title="CANALES DE CABLE",WARNER HD
+http://177.10.184.193:8000/play/a057/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" group-title="CANALES DE CABLE",ZooMoo
+http://177.10.184.193:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-http://i.tvcluboficial.com/atv.png="http://i.tvcluboficial.com/atv.png",ATV: Novelas Turcas (General)
 http://m3u.tvcluboficial.com/free/ZAP_MYRHODEPISDEAD/8Vq/1120.m3u8
 
